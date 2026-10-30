@@ -77,8 +77,8 @@
       "id": "armor_lavendervamp",
       "category": "armor",
       "name": "LavenderVamp",
-      "sha256": "3f47bc2a19f5879eb30154821f6ae9eed6ef3b0d474f2741b68642339a3aad0b",
-      "size": 37323,
+      "sha256": "a96ee769d1fa077c5d9eb8acb3300095deb713be111c1a55869c6cf89b9d7746",
+      "size": 59008,
       "preview": "previews/armor_lavendervamp.png"
     },
     {
@@ -149,8 +149,8 @@
       "id": "anchor_kesu_default_2",
       "category": "anchor",
       "name": "kesu default 2",
-      "sha256": "a1f84a110964375068e5fb752b4708929681642a9fde2f44a5afd7ebaabed95c",
-      "size": 5092,
+      "sha256": "efdbabe2c3f7aa4fc2d48762703879d4fa1346a29d9e9c184fe7b91af3c65cac",
+      "size": 5445,
       "preview": "previews/anchor_kesu_default_2.png"
     },
     {
@@ -205,8 +205,8 @@
       "id": "crystal_arkhalis",
       "category": "crystal",
       "name": "Arkhalis",
-      "sha256": "ea000688910eaf01f92f47d8e26dc26a4140640a2fa177e657776b8e121f2a4a",
-      "size": 17740,
+      "sha256": "d054235fbe20ec5a479aaac5d952055fee739c620864b80885eea79ceafa7c26",
+      "size": 18689,
       "preview": "previews/crystal_arkhalis.png"
     },
     {
@@ -277,8 +277,8 @@
       "id": "armor_arkhalis",
       "category": "armor",
       "name": "Arkhalis",
-      "sha256": "e7af6843efbcd79070edc8c8682220f8a29da2e78148757f7395ef67bf809216",
-      "size": 34918,
+      "sha256": "da249226fe184e115ac5dfb3cea160b39789a7b9907834bcabf5c5535d4c65d8",
+      "size": 52380,
       "preview": "previews/armor_arkhalis.png"
     },
     {
@@ -365,8 +365,8 @@
       "id": "crystal_1_bane_living_80k_pack",
       "category": "crystal",
       "name": "1 Bane (Living 80k pack)",
-      "sha256": "41d3fd10c9fe648b686bdce25628b6f93cd244f96ef8f0abdfeae15268186bc0",
-      "size": 6376,
+      "sha256": "30705d979a2dd6fa59dc803b0345cb8058906f704c78f1328abecfb40cd75c09",
+      "size": 8511,
       "preview": "previews/crystal_1_bane_living_80k_pack.png"
     },
     {
@@ -533,8 +533,8 @@
       "id": "armor_barebones_pvp_overlay",
       "category": "armor",
       "name": "Barebones PVP Overlay",
-      "sha256": "cb40e1bc6ee0305158f1e3ddf31cf7c7dc26352486e6edb88923cee683dba274",
-      "size": 42839,
+      "sha256": "e8bd12bcb54353b0a51f8d1880aeca468da833eb5e346b1602eecab7806da717",
+      "size": 50729,
       "preview": "previews/armor_barebones_pvp_overlay.png"
     },
     {
@@ -613,8 +613,8 @@
       "id": "crystal_clear_vision_purple_1_21_1",
       "category": "crystal",
       "name": "Clear Vision Purple 1.21 (1)",
-      "sha256": "13d18f1d0c8ee6447edc9473232be894815773cf69a2a6717bfc4c7fef7337f7",
-      "size": 5409,
+      "sha256": "b3e5082f4c3501084e083f8677fe3c6994920267b7810361a47500e69710940f",
+      "size": 9721,
       "preview": "previews/crystal_clear_vision_purple_1_21_1.png"
     },
     {
@@ -677,8 +677,8 @@
       "id": "armor_clear_vision_purple_1_21_1",
       "category": "armor",
       "name": "Clear Vision Purple 1.21 (1)",
-      "sha256": "3316e06f2fe9b672379273d3e7952d7f043237d3eafc1239a780524a631c04de",
-      "size": 8597,
+      "sha256": "f55d8acdc0aa124cc31ade9fd02ec18f25af01e1e0385ca2bec58fd089f28434",
+      "size": 15909,
       "preview": "previews/armor_clear_vision_purple_1_21_1.png"
     },
     {
@@ -789,8 +789,8 @@
       "id": "crystal_daquavious_1",
       "category": "crystal",
       "name": "Daquavious (1)",
-      "sha256": "9c38aba5932acf3f23124078b45606c13dd8698cd83e4fb01ee9a1833a44210e",
-      "size": 3591,
+      "sha256": "e0da498b24858ebc6fd7d327926104b6fa79e8e408fca95a191a22fc7f02bb0b",
+      "size": 6768,
       "preview": "previews/crystal_daquavious_1.png"
     },
     {
@@ -917,8 +917,8 @@
       "id": "armor_durability",
       "category": "armor",
       "name": "Durability",
-      "sha256": "36fc86644c2e35cce94767c8e28959c06071cd4e7256615f8aeac643df169d01",
-      "size": 87057,
+      "sha256": "dd6de8d1de515b7c88b0f68ede2187c12fd6954549ff091a107035b1cd2d43d8",
+      "size": 110142,
       "preview": "previews/armor_durability.png"
     },
     {
@@ -1013,8 +1013,8 @@
       "id": "armor_hahaha_callum",
       "category": "armor",
       "name": "Hahaha callum",
-      "sha256": "5b79d69360a10ab1977676d242251c037566d873462676de4cd8fe343700402f",
-      "size": 34823,
+      "sha256": "5602c9e295844d8e9999f0e87c84cee7075829d64a8633d1e782a6195a19883c",
+      "size": 66945,
       "preview": "previews/armor_hahaha_callum.png"
     },
     {
@@ -1037,8 +1037,8 @@
       "id": "crystal_hxtu_pack",
       "category": "crystal",
       "name": "Hxtu pack",
-      "sha256": "cec3417b25f66ff1c2f58cf605ef21dd3b98f93af777fd6dae1a5d7e36938ba7",
-      "size": 4894,
+      "sha256": "ec1686bb154515417a41b93be4b49f930f2dabc661d286aa6dd34e4a53b45bf3",
+      "size": 8120,
       "preview": "previews/crystal_hxtu_pack.png"
     },
     {
@@ -1077,8 +1077,8 @@
       "id": "armor_hxtu_pack",
       "category": "armor",
       "name": "Hxtu pack",
-      "sha256": "5cc7705a1e1915e7a14c55808cce4b0626fc4eb451594857616c745372ac4bfa",
-      "size": 2412,
+      "sha256": "fdf7fc2a198150b02b357c4ff07960ec9c2ecbf32b1dfd3c564b8e05446f4264",
+      "size": 4659,
       "preview": "previews/armor_hxtu_pack.png"
     },
     {
@@ -1213,8 +1213,8 @@
       "id": "crystal_o3kar_default_pink",
       "category": "crystal",
       "name": "O3kar default Pink",
-      "sha256": "064b9717523d7f28579a9e27ac2bc440878599979135e654073cc083fbfc24ba",
-      "size": 15973,
+      "sha256": "9943b9e070dfb2b3d43fb6a01ba54c094ebf7b15c974a0158579507180e5d570",
+      "size": 10356,
       "preview": "previews/crystal_o3kar_default_pink.png"
     },
     {
@@ -1309,8 +1309,8 @@
       "id": "crystal_pvp_optimizer",
       "category": "crystal",
       "name": "PVP Optimizer",
-      "sha256": "eb459b87b141dd9ffc2194169bddcfd9ca082d8d2728887c80b0b18b0107e3b8",
-      "size": 6530,
+      "sha256": "d520a45fa1637ac60bae95e2e686957ded0b78b5aa0f8e9139d888fd161288c4",
+      "size": 9693,
       "preview": "previews/crystal_pvp_optimizer.png"
     },
     {
@@ -1381,8 +1381,8 @@
       "id": "armor_pvp_optimizer",
       "category": "armor",
       "name": "PVP Optimizer",
-      "sha256": "3216b31ffd969ba4dbf415809da286737ca52880c6cb17884961ec1fe7d2c30a",
-      "size": 8555,
+      "sha256": "67131d3dae25ff5dd973ed30992baceda29e69c7a5788b3c085fa4da45354e73",
+      "size": 29780,
       "preview": "previews/armor_pvp_optimizer.png"
     },
     {
@@ -1501,8 +1501,8 @@
       "id": "crystal_sixuii_tweaks_v2",
       "category": "crystal",
       "name": "Sixuii Tweaks V2",
-      "sha256": "7512154d48dc0bce62b1320148ffd386a7d4e6bafa567bf235053a8e05eaa73d",
-      "size": 6970,
+      "sha256": "3f10ae2a8b11148011b63207b9bb6d80b8db54c1b6a48285fc5ba05b2be0e44b",
+      "size": 13005,
       "preview": "previews/crystal_sixuii_tweaks_v2.png"
     },
     {
@@ -1557,8 +1557,8 @@
       "id": "armor_sixuii_tweaks_v2",
       "category": "armor",
       "name": "Sixuii Tweaks V2",
-      "sha256": "b8fed31d0937a87e2b3577f1497bcb8d7f996aab051bb78bd169aa0594b4a2b4",
-      "size": 11340,
+      "sha256": "ed7f686f75379f75920aca8eb4fc825f228403f210db140a8e39d2427cc69c8b",
+      "size": 21405,
       "preview": "previews/armor_sixuii_tweaks_v2.png"
     },
     {
@@ -1645,8 +1645,8 @@
       "id": "armor_swightv3",
       "category": "armor",
       "name": "SwightV3",
-      "sha256": "f933823bd08df8086eea5434962c3c3f052a46990b789d8a9cde5df68b9b754a",
-      "size": 24942,
+      "sha256": "9060177fb1ff24adde4555e047f75be75d0d63d89751af7e0334b6507d8a6a45",
+      "size": 96483,
       "preview": "previews/armor_swightv3.png"
     },
     {
@@ -1717,8 +1717,8 @@
       "id": "crystal_usecw_purple",
       "category": "crystal",
       "name": "UseCW Purple",
-      "sha256": "7ebbe082fb5a27af37ec0c2c8cc94edbf839b5ddfce76bae387ba964bdeedfae",
-      "size": 30270,
+      "sha256": "c4dffbf1a850c07b65c4d385f4df9437a4ce6b07deca16f61af55ca34af52d9d",
+      "size": 38257,
       "preview": "previews/crystal_usecw_purple.png"
     },
     {
@@ -1781,8 +1781,8 @@
       "id": "armor_usecw_purple",
       "category": "armor",
       "name": "UseCW Purple",
-      "sha256": "902c00829eb14eeb3f736b69f281a782bb689cda4e397e637d8badfced998d17",
-      "size": 2021,
+      "sha256": "7026cf65aaf6cdfaa08c213de454d6e8784a4260ac694ae88f10338eebda4914",
+      "size": 3872,
       "preview": "previews/armor_usecw_purple.png"
     },
     {
@@ -1821,8 +1821,8 @@
       "id": "crystal_vanilla_enhanced_1_21_1",
       "category": "crystal",
       "name": "Vanilla Enhanced 1.21 (1)",
-      "sha256": "3fbd4473b5d0724168b8389bd8989185eac69a24371d44aa1f6e43fa0cc6c1b7",
-      "size": 5787,
+      "sha256": "1a1c47dfe90aee168204fdcf6111b788078d9bac92d68a695f8c51151eb8ade5",
+      "size": 9056,
       "preview": "previews/crystal_vanilla_enhanced_1_21_1.png"
     },
     {
@@ -1893,8 +1893,8 @@
       "id": "armor_vanilla_enhanced_1_21_1",
       "category": "armor",
       "name": "Vanilla Enhanced 1.21 (1)",
-      "sha256": "d3058a7197b1eab3e469baa2916c47eb8790e5c78b4bf200a6b84155c0537920",
-      "size": 9030,
+      "sha256": "a03ebc4813d6fc3dad82e9de9206b6a683f544870aee951139e9fe9fe63263fe",
+      "size": 16776,
       "preview": "previews/armor_vanilla_enhanced_1_21_1.png"
     },
     {
@@ -1949,8 +1949,8 @@
       "id": "crystal_vanilla_enhanced_1_21_2",
       "category": "crystal",
       "name": "Vanilla Enhanced 1.21 (2)",
-      "sha256": "61c4e4dcfa0a045e83b152b38b7ba862515bc150cdf4c4199c7e80240f849bef",
-      "size": 5207,
+      "sha256": "a5dfbb1f575e87b25648ec48c95b11433fc825fe350904eb8d5bb929af5a1afb",
+      "size": 9056,
       "preview": "previews/crystal_vanilla_enhanced_1_21_2.png"
     },
     {
@@ -1973,8 +1973,8 @@
       "id": "crystal_vanilla_3d_crystal_1_21_1",
       "category": "crystal",
       "name": "Vanilla+ 3D Crystal 1.21 (1)",
-      "sha256": "82e7c37369e16045bafbde62b93cae08c2e2c0d69969bbc47b4c35651055289d",
-      "size": 5801,
+      "sha256": "3231ac02421488c931b8ad2c820bf51cd31b9327d9b480ed0ea6016bfa5d97b4",
+      "size": 8254,
       "preview": "previews/crystal_vanilla_3d_crystal_1_21_1.png"
     },
     {
@@ -2021,8 +2021,8 @@
       "id": "armor_vanilla_3d_crystal_1_21_1",
       "category": "armor",
       "name": "Vanilla+ 3D Crystal 1.21 (1)",
-      "sha256": "e769b4454ea5f2d8b785b1f85ad2b2668b0dca3dcd4cba33e3311d03f12dc2ba",
-      "size": 39644,
+      "sha256": "1d7a8d203dd3564763d0db0642c100190c255238e0d211bf7760f175edaa68a2",
+      "size": 62366,
       "preview": "previews/armor_vanilla_3d_crystal_1_21_1.png"
     },
     {
@@ -2085,8 +2085,8 @@
       "id": "crystal_wraxps_edit",
       "category": "crystal",
       "name": "Wraxps_Edit",
-      "sha256": "ff6546213bc029437ab2974c020c24af3ceffd8dce93ec5058fc28e6e24bc809",
-      "size": 5026,
+      "sha256": "6b4045ab9c56995abcd05f0ab1d58862fdc67d617d545ce8002587cd9de2951e",
+      "size": 9146,
       "preview": "previews/crystal_wraxps_edit.png"
     },
     {
@@ -2101,8 +2101,8 @@
       "id": "crystal_bthe6legend327_16x_6revamp_1",
       "category": "crystal",
       "name": "bThe6Legend327_16x_6REVAMP (1)",
-      "sha256": "352a7093205bda6798ee0cb1961a59aece6a8b85ae2ec8d5a36f93134682b846",
-      "size": 22151,
+      "sha256": "ba2da5cbfc59648aa6f2b0864076e8bd1363b86563fe93c5587d0f246cb4df4a",
+      "size": 37101,
       "preview": "previews/crystal_bthe6legend327_16x_6revamp_1.png"
     },
     {
@@ -2165,8 +2165,8 @@
       "id": "armor_bthe6legend327_16x_6revamp_1",
       "category": "armor",
       "name": "bThe6Legend327_16x_6REVAMP (1)",
-      "sha256": "301b2994d628c43223524f5011810d18621c787e94d7748c66bdaeb36962c74f",
-      "size": 11720,
+      "sha256": "cb9b35ba97b65799a6b0a968297443ae5c710a4919032ebd101565f88862882d",
+      "size": 22484,
       "preview": "previews/armor_bthe6legend327_16x_6revamp_1.png"
     },
     {
@@ -2245,8 +2245,8 @@
       "id": "crystal_flynzox_overlay_2",
       "category": "crystal",
       "name": "flynzox overlay 2",
-      "sha256": "0635f78f22d505dcc729ba73fd1ff665f00b1acafe537f3958d9c65859a90be0",
-      "size": 12167,
+      "sha256": "05235446db47c36c4eb51d1dea1d6f944f42808c9aad8412d2181cd9a849be5f",
+      "size": 18960,
       "preview": "previews/crystal_flynzox_overlay_2.png"
     },
     {
@@ -2413,8 +2413,8 @@
       "id": "crystal_christmasc",
       "category": "crystal",
       "name": "Christmasc",
-      "sha256": "316f988e27b7921ffb115a0099b746891d81ff4fddc447093ff056eb9f624c03",
-      "size": 2880,
+      "sha256": "917ce45a2dd726834d0b0fa1b1ee4231d795e3fb996eb36e751f73a38c722ddf",
+      "size": 5064,
       "preview": "previews/crystal_christmasc.png"
     },
     {
@@ -2477,8 +2477,8 @@
       "id": "armor_christmasc",
       "category": "armor",
       "name": "Christmasc",
-      "sha256": "7fadabf60eaeeadb36d6df31502b38840e200f6116499af91829409fd4c1b5b5",
-      "size": 9039,
+      "sha256": "acce025b6524c292db42cc626c68aa3d5bd0200907b70edaed8366eba3ef9d01",
+      "size": 11460,
       "preview": "previews/armor_christmasc.png"
     },
     {
@@ -2549,8 +2549,8 @@
       "id": "armor_showy_s_dura_overlay",
       "category": "armor",
       "name": "Showy's Dura+ Overlay",
-      "sha256": "f40717a77107f725fdaaf20bdd91151898ba0ace135871a67906393c32064b00",
-      "size": 194856,
+      "sha256": "87c5492d0ab1d39adf5248d6c5b611d97768ceac0e0dbb410036d9399c8c0b2f",
+      "size": 198851,
       "preview": "previews/armor_showy_s_dura_overlay.png"
     },
     {
@@ -2581,8 +2581,8 @@
       "id": "crystal_pack_1",
       "category": "crystal",
       "name": "pack (1)",
-      "sha256": "0f4d6b75c93aba849112b8f497bc983b074f4fd8f40e259307f8bd50ea7af94c",
-      "size": 3952,
+      "sha256": "f79439e4466a8fbe0c577fa162b53272639b00d35d64d9651e803a2fa7a095fc",
+      "size": 5233,
       "preview": "previews/crystal_pack_1.png"
     },
     {
@@ -2613,8 +2613,8 @@
       "id": "anchor_auroraprac_private_1",
       "category": "anchor",
       "name": "auroraprac private (1)",
-      "sha256": "5fe0c99d9828c9f89df7a9d0891c3621f8cac6eaf25c084cb2a7289f53223e62",
-      "size": 5717,
+      "sha256": "b9d16fe5a38ce6da7c827ab9535cda17a278fd6b903bc4109e5e48e95b14e4ec",
+      "size": 6070,
       "preview": "previews/anchor_auroraprac_private_1.png"
     },
     {
@@ -2661,8 +2661,8 @@
       "id": "crystal_jjxf_matte",
       "category": "crystal",
       "name": "JJXF MATTE",
-      "sha256": "a41ec384b5e6d8d64db9fe8207d2ccb90a1d0cb735f61ff0858a630f59d36bfa",
-      "size": 3695,
+      "sha256": "c4d39b9c787121f390d490a37d5b5717c4c8288ca4ef78e98f1dc5bf421bf73f",
+      "size": 5179,
       "preview": "previews/crystal_jjxf_matte.png"
     },
     {
@@ -2717,8 +2717,8 @@
       "id": "armor_jjxf_matte",
       "category": "armor",
       "name": "JJXF MATTE",
-      "sha256": "03e786b8ba129b3f36949e8f88c19a8e72cb188d350706391490ced9b94365ca",
-      "size": 5534,
+      "sha256": "74a3f56a189bdd44590d789b39c6fa91c23c0a7fd183ea8060c1468d10a56ff2",
+      "size": 6926,
       "preview": "previews/armor_jjxf_matte.png"
     },
     {
@@ -2773,8 +2773,8 @@
       "id": "crystal_thosewhoknow",
       "category": "crystal",
       "name": "ThoseWhoKnow",
-      "sha256": "485e6063afb299933c55a3b780b18aefc553bd06eb25ea7a8a167ffdbd2bf55d",
-      "size": 8014,
+      "sha256": "5248b87ea2a58803620654e1e22513c4d331dd97019f6cb3d3f480b34ffb4f7a",
+      "size": 11143,
       "preview": "previews/crystal_thosewhoknow.png"
     },
     {
@@ -2909,8 +2909,8 @@
       "id": "crystal_black_knight",
       "category": "crystal",
       "name": "Black Knight",
-      "sha256": "2819c2e1ee0aa82e376eeccdbadd7afccc05ccfd38768f3fa6b3c68bf004565d",
-      "size": 2257,
+      "sha256": "7112f429243990d7c8a5dfa632711e531729194fb7b6763ddd887f56d773262e",
+      "size": 3345,
       "preview": "previews/crystal_black_knight.png"
     },
     {
@@ -2973,8 +2973,8 @@
       "id": "armor_black_knight",
       "category": "armor",
       "name": "Black Knight",
-      "sha256": "c9d374f021b0508f2ea31c735eb6bd69c1b1f61c1f2f09f71fc83905762aa65b",
-      "size": 29220,
+      "sha256": "ed8068a2cb7ddfd1c8c753862b53e1798950ff49a2a3ae8343716305ee91ca26",
+      "size": 58309,
       "preview": "previews/armor_black_knight.png"
     },
     {
@@ -3157,8 +3157,8 @@
       "id": "armor_you_s33_pink_os",
       "category": "armor",
       "name": "YOU S33 PINK-       ! OS",
-      "sha256": "9289b38dfbc832ab960636ff3deb00708c71b22ecfea0ab2bd81fc354e2096bb",
-      "size": 5529,
+      "sha256": "1f3e7d2848f36612be8612e484d948135d83ce3bbcfd8767b5b08ea7097b52ee",
+      "size": 10919,
       "preview": "previews/armor_you_s33_pink_os.png"
     },
     {
@@ -3229,8 +3229,8 @@
       "id": "crystal_snyfort_pack",
       "category": "crystal",
       "name": "Snyfort pack",
-      "sha256": "c6b3b76915cf14d466d82968c355816884c26a15e87dfc4a9e015324e0ca1346",
-      "size": 22164,
+      "sha256": "2b708233cb925523b3b23271a6b1686b24c3610dc49a4538843bee650148553a",
+      "size": 33583,
       "preview": "previews/crystal_snyfort_pack.png"
     },
     {
@@ -3285,8 +3285,8 @@
       "id": "armor_snyfort_pack",
       "category": "armor",
       "name": "Snyfort pack",
-      "sha256": "840e34b11be0afa676e4bdf7c1537a8a5d4211203e836014e687a85bc43794b3",
-      "size": 2370,
+      "sha256": "a563c700cfd42f4ce2a0add30cc390184c9dc40943d4178bc8f7e7663ee57faa",
+      "size": 4573,
       "preview": "previews/armor_snyfort_pack.png"
     },
     {
@@ -3325,8 +3325,8 @@
       "id": "crystal_pack",
       "category": "crystal",
       "name": "✪ ʟᴏɢɢᴇʀᴏᴜ ᴜʟᴛɪᴍᴀᴛᴇ ✪",
-      "sha256": "ab53627df85f518b232c238299009d7cf2b77bbb33327b78658c440db1f23ac4",
-      "size": 4036,
+      "sha256": "506c558d6e7c46fb221b8f36bd4bfe7e7b782d87830d216e2de9c0daa67e11de",
+      "size": 4771,
       "preview": "previews/crystal_pack.png"
     },
     {
@@ -3373,8 +3373,8 @@
       "id": "armor_pack",
       "category": "armor",
       "name": "✪ ʟᴏɢɢᴇʀᴏᴜ ᴜʟᴛɪᴍᴀᴛᴇ ✪",
-      "sha256": "b10e5c1cad9fe6cdd9b8c5a5f249593388ea725fc3f876a40953f0eb8a7aa6c6",
-      "size": 12016,
+      "sha256": "27c5826341fac91ef31e13b1a2e23ec6986db8386b482fee9896469e6cb3c141",
+      "size": 21055,
       "preview": "previews/armor_pack.png"
     },
     {
@@ -3429,8 +3429,8 @@
       "id": "crystal_phantom_16x",
       "category": "crystal",
       "name": "Phantom [16x]",
-      "sha256": "43753cb20447b5d851a4f4cc996bf7b32f81244829204e2e43accf84774b3b0d",
-      "size": 23429,
+      "sha256": "9b33f1e7185645590eba9571cefd2c535b94d280ba95158058165075c39971cf",
+      "size": 26529,
       "preview": "previews/crystal_phantom_16x.png"
     },
     {
@@ -3501,8 +3501,8 @@
       "id": "armor_phantom_16x",
       "category": "armor",
       "name": "Phantom [16x]",
-      "sha256": "11f4bc9f66047aac528deca97bd6f704990b0fa8045782c849d153f0319e4033",
-      "size": 74189,
+      "sha256": "2bc9508ab31e298822413f859bacb187a1576737bb34d102baffbe8c353c4192",
+      "size": 143413,
       "preview": "previews/armor_phantom_16x.png"
     },
     {
@@ -3584,14 +3584,6 @@
       "sha256": "71ffc0a286899abca4795e4686df9cbfbb7a5067e33d354d5f3381799ed8316f",
       "size": 9716,
       "preview": "previews/anchor_lean_private.png"
-    },
-    {
-      "id": "crystal_lean_private",
-      "category": "crystal",
-      "name": "lean private",
-      "sha256": "b26d706605955f7444d130bcbb351721ed506c4ae0957dc1c76665043fcebc61",
-      "size": 602,
-      "preview": "previews/crystal_lean_private.png"
     },
     {
       "id": "sword_lean_private",
@@ -3813,8 +3805,8 @@
       "id": "armor_dlvaunta_default_mashup_ii",
       "category": "armor",
       "name": "dlvaunta default mashup II",
-      "sha256": "ab169d55a5a2b9eb00c71037ed3ca7218f4c485fbad148277ec5b9a849c64a99",
-      "size": 41778,
+      "sha256": "000052b1dfa45e16bef1eb44ca7d1ccd77d5116a8939ff5bc5172a047300bd84",
+      "size": 66755,
       "preview": "previews/armor_dlvaunta_default_mashup_ii.png"
     },
     {
@@ -3981,8 +3973,8 @@
       "id": "crystal_zen_dark_red_mashup_1",
       "category": "crystal",
       "name": "zen dark red mashup (1)",
-      "sha256": "36faac73cbcf370ea32fe018713f45bb63b40cabdf633b67687b75b1f56362b8",
-      "size": 22231,
+      "sha256": "c5ab155ab754cd255033ad70dd5eceb2d49ebd44eca7b5bf4abbafbf318a3fd1",
+      "size": 37094,
       "preview": "previews/crystal_zen_dark_red_mashup_1.png"
     },
     {
@@ -4069,8 +4061,8 @@
       "id": "crystal_bombies_lavender_private",
       "category": "crystal",
       "name": "Bombies Lavender Private",
-      "sha256": "f397f2e1119a9bb502ce8ef9ff3e4de2c9398528fa7517e470ed22da33937b05",
-      "size": 21238,
+      "sha256": "d19c17604283df338b0c0405ceea2903ead3d143bbe271c37246012bec2884eb",
+      "size": 37095,
       "preview": "previews/crystal_bombies_lavender_private.png"
     },
     {
@@ -4101,8 +4093,8 @@
       "id": "armor_bombies_lavender_private",
       "category": "armor",
       "name": "Bombies Lavender Private",
-      "sha256": "989de6747f218ba91180c163b8d26b180b2fb00e74ec4a49341c539c7502e7c7",
-      "size": 8251,
+      "sha256": "6de0de12a087a9920204ce00657046a04ed75c288200952d0123b1984d90462a",
+      "size": 15594,
       "preview": "previews/armor_bombies_lavender_private.png"
     },
     {
@@ -4173,8 +4165,8 @@
       "id": "crystal_swetsy_flyfly",
       "category": "crystal",
       "name": "$ Swetsy FlyFly",
-      "sha256": "0397c8c694a7f3dc2981d7c76cd6840ff410c41cdda2098817439fae817d8bfb",
-      "size": 10153,
+      "sha256": "3cc70a5b0af5c3a64e2456de8d07e40a1c119808efb3321a16bd3ab3222f2cc0",
+      "size": 14936,
       "preview": "previews/crystal_swetsy_flyfly.png"
     },
     {
@@ -4197,8 +4189,8 @@
       "id": "crystal_swetsy_gray_1",
       "category": "crystal",
       "name": "$ Swetsy Gray $ (1)",
-      "sha256": "651550d0aaccba2f44568376f0c50001ebefdd5d1b74e607e8b39439341e051c",
-      "size": 5590,
+      "sha256": "c9484e531110bdb3cd17eef06ef0d5a222d8d33c6ea410acb4e2da5ec759cb58",
+      "size": 9196,
       "preview": "previews/crystal_swetsy_gray_1.png"
     },
     {
@@ -4237,8 +4229,8 @@
       "id": "crystal_xmas_remake_by_swetsy_1_1",
       "category": "crystal",
       "name": "$ Xmas remake by Swetsy (1) (1)",
-      "sha256": "e23feffe832bf719b67e5bfd66eabd7fa00265a84495e1aeadf0b1c0dc04f0e9",
-      "size": 3564,
+      "sha256": "d89d4e02247580be45cc06aa548ba500dfe6dc004cc341722c8173f0f674e556",
+      "size": 5326,
       "preview": "previews/crystal_xmas_remake_by_swetsy_1_1.png"
     },
     {
@@ -4285,8 +4277,8 @@
       "id": "crystal_beach_1",
       "category": "crystal",
       "name": "$ beach (1)",
-      "sha256": "ab5d8144be39a1887fb74ef23348948f1a05c62e94708a28792f8f90d0d05107",
-      "size": 7188,
+      "sha256": "b4ec0c5c85b5a8dcc1c6becf4ed774b6065199b6c3282c1cd8ab807178770daf",
+      "size": 12248,
       "preview": "previews/crystal_beach_1.png"
     },
     {
@@ -4357,8 +4349,8 @@
       "id": "crystal_maybe_orange",
       "category": "crystal",
       "name": "$ maybe orange",
-      "sha256": "c431d93e11b4689d11a94b8970e768b780baebb60d8683862f51408e34b58e23",
-      "size": 6264,
+      "sha256": "b42a5cf69e0b0faecfc7de0d715584ed3c2c15859feeef963befdbe4e9e2b6a5",
+      "size": 10760,
       "preview": "previews/crystal_maybe_orange.png"
     },
     {
@@ -4493,8 +4485,8 @@
       "id": "crystal_1_12_uthas",
       "category": "crystal",
       "name": "1.12 Uthas",
-      "sha256": "c448bda9309f4472b8ad4881a3de811673e10fec2d82e5f427c2bb2fdabdac00",
-      "size": 5468,
+      "sha256": "1b0413a6365e677f63f523c0015c7d298fea074eea54b8e48b5a92441659aab0",
+      "size": 8541,
       "preview": "previews/crystal_1_12_uthas.png"
     },
     {
@@ -4549,8 +4541,8 @@
       "id": "armor_1_12_uthas",
       "category": "armor",
       "name": "1.12 Uthas",
-      "sha256": "db1bc9ebf9498ceff7cf808080d76fea24c1dbcee5d78db0d6511f3f41f6b280",
-      "size": 23697,
+      "sha256": "3c540ab6b54a5fc99c775b56d1f85c3b80985627a4aa84d1a4d45083f838c475",
+      "size": 28718,
       "preview": "previews/armor_1_12_uthas.png"
     },
     {
@@ -4621,8 +4613,8 @@
       "id": "crystal_5lquelly_default_edit",
       "category": "crystal",
       "name": "5lQuelly_default_edit",
-      "sha256": "3a40682a24b3fd62533c182d0fc7d1d1ee18e7b3bb1d7432bd4e64fbe4e3f5a0",
-      "size": 5657,
+      "sha256": "b58d6053a316d3da70ea3d040acbfef262c81ea567b039484e0657ce513d69b1",
+      "size": 7533,
       "preview": "previews/crystal_5lquelly_default_edit.png"
     },
     {
@@ -4685,8 +4677,8 @@
       "id": "crystal_amethyst_private",
       "category": "crystal",
       "name": "AMETHYST PRIVATE",
-      "sha256": "6c0fba717a791c388c2c7405319e2f4d6ff90270a8cb8a27d850924de4151a61",
-      "size": 4681,
+      "sha256": "8fd6240feabb60c0f240507d97e1d6e8af0c072a1c9864ad08afe08e81dc1fd4",
+      "size": 5610,
       "preview": "previews/crystal_amethyst_private.png"
     },
     {
@@ -4757,8 +4749,8 @@
       "id": "armor_amethyst_private",
       "category": "armor",
       "name": "AMETHYST PRIVATE",
-      "sha256": "a07fac2d6be41d0857f928360d84e87c3f3b43d548b6cdebdba15178c35fb2ff",
-      "size": 16499,
+      "sha256": "208c91f721627786a2a32f5b38ae44817c2974424502853a7bbfcb45e9a69906",
+      "size": 45558,
       "preview": "previews/armor_amethyst_private.png"
     },
     {
@@ -4853,8 +4845,8 @@
       "id": "crystal_amethyst_16",
       "category": "crystal",
       "name": "Amethyst [16]",
-      "sha256": "74b522bf123fe2bf47300f824e1ea649451deeced8b25591b0794fe819170745",
-      "size": 3738,
+      "sha256": "f148d299e6e500a4aa9d954fe3143e4975b0e1af1f38f2f5ca5e40df69297f6f",
+      "size": 4608,
       "preview": "previews/crystal_amethyst_16.png"
     },
     {
@@ -4909,8 +4901,8 @@
       "id": "armor_amethyst_16",
       "category": "armor",
       "name": "Amethyst [16]",
-      "sha256": "8d3625de57d31505122131f219786e8303bc55fd3265777e10be241130311075",
-      "size": 16466,
+      "sha256": "ca667de70de41d4c202430028b2169f92c2b1425487ac9e0387ca2c6d4132921",
+      "size": 19922,
       "preview": "previews/armor_amethyst_16.png"
     },
     {
@@ -4981,8 +4973,8 @@
       "id": "crystal_awerial_priv_remade_by_swets",
       "category": "crystal",
       "name": "Awerial Priv Remade by Swetsy",
-      "sha256": "bf43f3fe29ebfa7452312352d42415602782e30bdeba0c4116b00bbce32b6e3e",
-      "size": 6105,
+      "sha256": "2c7b3bbe26c68eab446b3908189ca7a15b13b415179d3f22fa78b163efb8ab17",
+      "size": 9750,
       "preview": "previews/crystal_awerial_priv_remade_by_swets.png"
     },
     {
@@ -5045,8 +5037,8 @@
       "id": "armor_awerial_priv_remade_by_swets",
       "category": "armor",
       "name": "Awerial Priv Remade by Swetsy",
-      "sha256": "8f6a81f800cbf0af98590f299f32581fce77273249fe6c1df4d3f5766214c603",
-      "size": 51294,
+      "sha256": "7ee7626156714265c4a4b364aa875ce3ebcb75762c4c49a6ae382d8a80675ffd",
+      "size": 61046,
       "preview": "previews/armor_awerial_priv_remade_by_swets.png"
     },
     {
@@ -5149,8 +5141,8 @@
       "id": "crystal_blue_distortion",
       "category": "crystal",
       "name": "Blue Distortion",
-      "sha256": "00c6314b4da8d2ab425d7fa19d6aa4d1279311546c81a53f422144962c405e77",
-      "size": 13539,
+      "sha256": "7d936a026607c6eb73aa4efc52cb093bcf9f8b0c68edf1240b3dc4bde5519ed2",
+      "size": 20526,
       "preview": "previews/crystal_blue_distortion.png"
     },
     {
@@ -5237,8 +5229,8 @@
       "id": "crystal_blue_vanilla",
       "category": "crystal",
       "name": "Blue Vanilla+",
-      "sha256": "7c0f47fb959a11305424dd0927a203c3303e8e5b2b939dd3739a8c7107ed72a9",
-      "size": 6151,
+      "sha256": "8ca2f9bce55d4dbd9058d364346048d1ff7bf4283bbd9e2e9e72941252febae7",
+      "size": 7119,
       "preview": "previews/crystal_blue_vanilla.png"
     },
     {
@@ -5277,8 +5269,8 @@
       "id": "armor_blue_vanilla",
       "category": "armor",
       "name": "Blue Vanilla+",
-      "sha256": "293e274e789389afe483d34b0c733fa0e0a5e28f656abcedf1d8a6c6fe87dc98",
-      "size": 47095,
+      "sha256": "4e1359b65437acda3e71099a16efb992b295c69e35bd02afcc6f538a12b79d78",
+      "size": 55963,
       "preview": "previews/armor_blue_vanilla.png"
     },
     {
@@ -5341,8 +5333,8 @@
       "id": "armor_blue_vanillaplus",
       "category": "armor",
       "name": "Blue VanillaPlus",
-      "sha256": "34119746201c17947d9d18b2584cdd9cbb7a6eda00723649bd1b99b36dc5121d",
-      "size": 52349,
+      "sha256": "3aa9b1be30041e2f778680c2969bce7b06ff148c7b37d13ba5384f5a34016dbf",
+      "size": 62354,
       "preview": "previews/armor_blue_vanillaplus.png"
     },
     {
@@ -5357,8 +5349,8 @@
       "id": "crystal_blur_faith",
       "category": "crystal",
       "name": "Blur Faith",
-      "sha256": "9b25710b907fa7ab1825ca493dc8acc682d0db80bba80fceda0e014f0094b147",
-      "size": 10838,
+      "sha256": "a3ad573de1bd4564c8c88ca67bfa3dc61ba89b4c89c69840dcda8dabd9f54d2a",
+      "size": 18704,
       "preview": "previews/crystal_blur_faith.png"
     },
     {
@@ -5397,8 +5389,8 @@
       "id": "crystal_blured_out_1",
       "category": "crystal",
       "name": "Blured out (1)",
-      "sha256": "c959a9e1cd54ed52c348f7ff8c0d10ba3ed251537a9a9e6eb3483ff726e53fa2",
-      "size": 12697,
+      "sha256": "7e2a9a28dabed0959175afc73a1d6c3b094dd40d7edefffca09fc3d70dbd9ab0",
+      "size": 17829,
       "preview": "previews/crystal_blured_out_1.png"
     },
     {
@@ -5477,8 +5469,8 @@
       "id": "armor_bunnyfault_for_1_21",
       "category": "armor",
       "name": "BunnyFault For 1.21",
-      "sha256": "adafe7d330e250ac0c33283d91423bfe119990122a030c9c06d9b24d61d16b37",
-      "size": 13428,
+      "sha256": "a721c4fecfe7dc30b09a763e6970fbae45e179be21fafba0eeecf7fd60b27e36",
+      "size": 26085,
       "preview": "previews/armor_bunnyfault_for_1_21.png"
     },
     {
@@ -5517,8 +5509,8 @@
       "id": "crystal_cowarted_vanilla",
       "category": "crystal",
       "name": "Cowarted Vanilla",
-      "sha256": "2adebe459dd5c7f38563f79fb36380898a5f9706baa49d8ef6aced59f9ca1df1",
-      "size": 3779,
+      "sha256": "13dc33a001bb82fd026c71dd13701cf3ab61790d42b95bfe26d816e0a2336c5b",
+      "size": 6814,
       "preview": "previews/crystal_cowarted_vanilla.png"
     },
     {
@@ -5557,8 +5549,8 @@
       "id": "armor_cowarted_vanilla",
       "category": "armor",
       "name": "Cowarted Vanilla",
-      "sha256": "ffaa0bc0248debc3de0eb24a3b767a80a823cad8d4a1f3e234dc81880a059530",
-      "size": 58361,
+      "sha256": "0854fa4d4b6f24556bf06a2862a5f7e97015164589864c7e7e4e33889da26fe7",
+      "size": 69402,
       "preview": "previews/armor_cowarted_vanilla.png"
     },
     {
@@ -5653,8 +5645,8 @@
       "id": "crystal_crey_private_1",
       "category": "crystal",
       "name": "Crey Private (1)",
-      "sha256": "4f1f1c4b9490a42f8e03408934f20d00286d9cd2bc7c2f8294926d461ef897ea",
-      "size": 14025,
+      "sha256": "23d4d884d061231ee30b9044b8a17441e06c1983166151a0b649c47f02ac93da",
+      "size": 21125,
       "preview": "previews/crystal_crey_private_1.png"
     },
     {
@@ -5725,8 +5717,8 @@
       "id": "armor_crey_private_1",
       "category": "armor",
       "name": "Crey Private (1)",
-      "sha256": "453fc771e41bf3fcb2487f2e2588dc7b11e1fa28c875ca05d9e9e5092f499548",
-      "size": 63572,
+      "sha256": "334667ee5b48a295eacbd44b950dc7177f537eb3ee3d116cc039a148badd12a9",
+      "size": 108836,
       "preview": "previews/armor_crey_private_1.png"
     },
     {
@@ -5813,8 +5805,8 @@
       "id": "crystal_crystal_pink_32x",
       "category": "crystal",
       "name": "Crystal Pink [32x]",
-      "sha256": "94c356028bad895676649078236573ce3d0ed66dbb2e91c8ba35d5742e9324c1",
-      "size": 4109,
+      "sha256": "3fbbc362e61bea193f972684d739a0f255eb6580560fd4a36773d5a0f99c9ebc",
+      "size": 7808,
       "preview": "previews/crystal_crystal_pink_32x.png"
     },
     {
@@ -5853,8 +5845,8 @@
       "id": "crystal_custom_cpvp",
       "category": "crystal",
       "name": "Custom CPVP",
-      "sha256": "1022535f50e8386f0eda5f223bd4e6272ed38526b606fd624595c3888aa9148e",
-      "size": 15859,
+      "sha256": "95bb82976be1e7dc6e532403dc3133b6c942559c70782a72bf83f978d128aed5",
+      "size": 32151,
       "preview": "previews/crystal_custom_cpvp.png"
     },
     {
@@ -5949,8 +5941,8 @@
       "id": "crystal_dark_vanilla",
       "category": "crystal",
       "name": "Dark Vanilla+",
-      "sha256": "240cd40d4c52a4c89825a1c96760a864695086ecbbe6bf2a07c3c638f138375c",
-      "size": 4422,
+      "sha256": "f64097e51c12c435e0c93a6342d4c0701df298ec320a7e2b17e19f20feba30f1",
+      "size": 5193,
       "preview": "previews/crystal_dark_vanilla.png"
     },
     {
@@ -5981,8 +5973,8 @@
       "id": "armor_dark_vanilla",
       "category": "armor",
       "name": "Dark Vanilla+",
-      "sha256": "9562875d4cd982398c45076392b18b21eca03b57a506a96803d9b04ef986493a",
-      "size": 46555,
+      "sha256": "c4ae87c017bb5434d6fea0b8d85ec87ece4d23ea3619fc39aa3336e60691ce6c",
+      "size": 55423,
       "preview": "previews/armor_dark_vanilla.png"
     },
     {
@@ -6005,8 +5997,8 @@
       "id": "crystal_doge_private_v2",
       "category": "crystal",
       "name": "Doge Private V2",
-      "sha256": "1019af23445121df62e1a830957c85101e9ac0b914062277510a6293550f5d9d",
-      "size": 22790,
+      "sha256": "d1a501d50aa6620794b80077b63d2a46f045b702048efae1e9b8545282e3575b",
+      "size": 21124,
       "preview": "previews/crystal_doge_private_v2.png"
     },
     {
@@ -6061,8 +6053,8 @@
       "id": "armor_doge_private_v2",
       "category": "armor",
       "name": "Doge Private V2",
-      "sha256": "c0013f727679c51ef70e7a3ab1481dab363ad33b53bacb063f7047549bc21485",
-      "size": 43086,
+      "sha256": "bf860fea4ec49bdb9d55d75c7edc2bd5357f55c927aa58e43b3057f948f5088a",
+      "size": 68709,
       "preview": "previews/armor_doge_private_v2.png"
     },
     {
@@ -6117,8 +6109,8 @@
       "id": "armor_doge_private",
       "category": "armor",
       "name": "Doge Private",
-      "sha256": "85e975398f8b7638c9601cd3b0775c1b835d65a51b3e5ca2a70f434553857e3b",
-      "size": 47591,
+      "sha256": "bdd24db86fa3005dcf7c8507b11ce3d4c951b5094fd2d37d130d9f70febf5319",
+      "size": 77722,
       "preview": "previews/armor_doge_private.png"
     },
     {
@@ -6189,8 +6181,8 @@
       "id": "armor_drdontnut_pack",
       "category": "armor",
       "name": "DrDontnut Pack",
-      "sha256": "d079084105723b9ef73a84fbfc08470d938c8403977580286c647cf8a042efec",
-      "size": 63054,
+      "sha256": "77693a5f804956aab564ad2fa09286d87ba1f9bb8cf2b30f1b70bb3f9e1c6342",
+      "size": 114990,
       "preview": "previews/armor_drdontnut_pack.png"
     },
     {
@@ -6253,8 +6245,8 @@
       "id": "crystal_eggman_1",
       "category": "crystal",
       "name": "Eggman (1)",
-      "sha256": "1805155f8b206836120699ac6a6eb6cebefc44440929ea791713fde47a19070b",
-      "size": 14464,
+      "sha256": "4699dd03d322bb3b7873244d0995979fada563d03848a8f838de5f75f18444f2",
+      "size": 18953,
       "preview": "previews/crystal_eggman_1.png"
     },
     {
@@ -6333,8 +6325,8 @@
       "id": "armor_emily_edit",
       "category": "armor",
       "name": "Emily edit",
-      "sha256": "7acb82d493f9c2db1bbcf217c43d817a93567abb1b1d25d9303eaa01eee778d2",
-      "size": 10676,
+      "sha256": "923dbb1b987260fd541b744a3214cc22d9696cf2d84636c49ba38924a97100bd",
+      "size": 19211,
       "preview": "previews/armor_emily_edit.png"
     },
     {
@@ -6405,8 +6397,8 @@
       "id": "crystal_evantii_x_dagga",
       "category": "crystal",
       "name": "Evantii x Dagga",
-      "sha256": "f011cd01fbef5e4298b5a333967c434e18e2bfe7eb89f682eb872952b4aaa85f",
-      "size": 22063,
+      "sha256": "5bb3cba8ee022007eec1caa4c3874a78c3e8f5a26a9e63a058cd03ba2c160dfc",
+      "size": 37086,
       "preview": "previews/crystal_evantii_x_dagga.png"
     },
     {
@@ -6445,8 +6437,8 @@
       "id": "crystal_fot_v",
       "category": "crystal",
       "name": "FOT v+",
-      "sha256": "db9112b7d925b14a730f0f8e4aa5273ab2bfb5b931650e5a6236003085d04304",
-      "size": 4731,
+      "sha256": "a47b76caf47b795fb2e98926bae43790e7f94d37dc5c40217f8cdcf4c8c9ef9f",
+      "size": 8232,
       "preview": "previews/crystal_fot_v.png"
     },
     {
@@ -6501,8 +6493,8 @@
       "id": "crystal_faithful_1_18_1",
       "category": "crystal",
       "name": "Faithful-1.18 (1)",
-      "sha256": "d79c396564d7232cb02aad2bbc1f7ef3bcaa8179fa8a24290a32c352cc2f68a6",
-      "size": 13161,
+      "sha256": "1796db0a28accbed782be964d2f9db2e9e90fe471059ce3b0ca8529163d32071",
+      "size": 18960,
       "preview": "previews/crystal_faithful_1_18_1.png"
     },
     {
@@ -6549,8 +6541,8 @@
       "id": "armor_faithful_1_18_1",
       "category": "armor",
       "name": "Faithful-1.18 (1)",
-      "sha256": "193e5b3ad7fde0fab30e01a265ca564aef72e207b75cd09deee29fcf7a5ba4bd",
-      "size": 37409,
+      "sha256": "43d96a8a113314f71c70c77ac44e3428d7fa7abc43524d9e25f69ab165f5abd1",
+      "size": 66945,
       "preview": "previews/armor_faithful_1_18_1.png"
     },
     {
@@ -6605,8 +6597,8 @@
       "id": "crystal_fantasy_ruby_red",
       "category": "crystal",
       "name": "Fantasy Ruby Red",
-      "sha256": "912166195d46399178b9cc3c3a1cef8651c440a305207361581310bcd37258ab",
-      "size": 11789,
+      "sha256": "89019f1f812b7e97c5614587badc76a37e1dcead2b22debf76d88727f81d7ddb",
+      "size": 15339,
       "preview": "previews/crystal_fantasy_ruby_red.png"
     },
     {
@@ -6669,8 +6661,8 @@
       "id": "armor_fantasy_ruby_red",
       "category": "armor",
       "name": "Fantasy Ruby Red",
-      "sha256": "6d6ae4f1235a47eecc1d259034078f13de8941c6cf8ba8ec10531c64b93731e0",
-      "size": 32447,
+      "sha256": "a40dff3e369fc656e7a0dc7fd6078d514ee5a8e42ecc37d30bc5560f5405a887",
+      "size": 37526,
       "preview": "previews/armor_fantasy_ruby_red.png"
     },
     {
@@ -6765,8 +6757,8 @@
       "id": "crystal_fury",
       "category": "crystal",
       "name": "Fury",
-      "sha256": "62100371082c95a57906cc4df9ac133e419c9ff022db4370878396e145d30a3f",
-      "size": 5265,
+      "sha256": "e8ba32056021de67d8b49bddbf4b80450a6aa5b3a6defff1afeb5a95ec7634c8",
+      "size": 8660,
       "preview": "previews/crystal_fury.png"
     },
     {
@@ -6845,8 +6837,8 @@
       "id": "crystal_gallery_walk_remake_1",
       "category": "crystal",
       "name": "Gallery Walk Remake (1)",
-      "sha256": "1db6f0e841b58d8ff92329895d29e3c23afe1078c0a4af9386a28cb1cb03f31e",
-      "size": 3461,
+      "sha256": "327725280ec96345cd2cb4761d958faec0855aa910085fe8a3552fc05646734d",
+      "size": 6118,
       "preview": "previews/crystal_gallery_walk_remake_1.png"
     },
     {
@@ -6869,8 +6861,8 @@
       "id": "crystal_golden_pvp_vr_edit",
       "category": "crystal",
       "name": "Golden Pvp vr edit",
-      "sha256": "81d15665af2fad33dd19e983037ad55b95b1a8417f0c96ada7b41595522ea1ad",
-      "size": 8539,
+      "sha256": "f7dac4bee7453e69a72a4b1983e467fe544e271b0653a7ae680baa7bc35f59a8",
+      "size": 12510,
       "preview": "previews/crystal_golden_pvp_vr_edit.png"
     },
     {
@@ -6925,8 +6917,8 @@
       "id": "armor_golden_pvp_vr_edit",
       "category": "armor",
       "name": "Golden Pvp vr edit",
-      "sha256": "b7a3647791a1e06db2ef043df1720a020805b09c2e5e809298ff98cb23d386ac",
-      "size": 3469,
+      "sha256": "c63eb40df533f7e3a33538b72f5905fdfc95441394ee5009a4c62c6c9bef1a4c",
+      "size": 6762,
       "preview": "previews/armor_golden_pvp_vr_edit.png"
     },
     {
@@ -6997,8 +6989,8 @@
       "id": "crystal_green_faith",
       "category": "crystal",
       "name": "Green Faith",
-      "sha256": "f51827ebc87e71f1c4b1171448b5ac5d87c9f302bae99c0a8e7df92af3c6934f",
-      "size": 10926,
+      "sha256": "39b2b25ae010eca87755d91ca56d75471329aab2647cc0c185e2a210e3f44173",
+      "size": 20065,
       "preview": "previews/crystal_green_faith.png"
     },
     {
@@ -7037,8 +7029,8 @@
       "id": "crystal_halloween_32x_1_21",
       "category": "crystal",
       "name": "Halloween-32x-1.21",
-      "sha256": "5d8fdbe6726aa88b34920ebf8da940a2d1ce2b0f53f7d1ef1fb7dc9ac7bc7749",
-      "size": 14890,
+      "sha256": "b7cf7b75b089c848dfea0eb748d796feac9af18947f4d6e4bac7203b6412c135",
+      "size": 19723,
       "preview": "previews/crystal_halloween_32x_1_21.png"
     },
     {
@@ -7093,8 +7085,8 @@
       "id": "armor_halloween_32x_1_21",
       "category": "armor",
       "name": "Halloween-32x-1.21",
-      "sha256": "4b1fcd4190e126d1f37a2cd7121c70314b3dc3190259829ec3339e81b0eba0ca",
-      "size": 60538,
+      "sha256": "d09c1025e34b4b2a37d97ae34e285015e1923ec33645780723cc530c77e70a5c",
+      "size": 73801,
       "preview": "previews/armor_halloween_32x_1_21.png"
     },
     {
@@ -7157,8 +7149,8 @@
       "id": "crystal_halloween",
       "category": "crystal",
       "name": "Halloween",
-      "sha256": "ad203f74d4fb7d4a1ad1c8904ba6fc4d00a854f991370956a584910907aa40d2",
-      "size": 4326,
+      "sha256": "bba3728f06887cc0f1b6fd7ece0c64c1f440b092c42230d5b3ea82dd705cebeb",
+      "size": 6693,
       "preview": "previews/crystal_halloween.png"
     },
     {
@@ -7229,8 +7221,8 @@
       "id": "armor_halloween",
       "category": "armor",
       "name": "Halloween",
-      "sha256": "60901da6aa1d8652c2dc4ca0e81d57a5cecb3985a6560c545c6ca97b388cf58b",
-      "size": 16847,
+      "sha256": "9419951599dcd868c9cb8a508972eae57b7ff7154e0fb70d240773aa9db897ab",
+      "size": 22146,
       "preview": "previews/armor_halloween.png"
     },
     {
@@ -7325,8 +7317,8 @@
       "id": "crystal_hallowern_pack_by_gabi",
       "category": "crystal",
       "name": "Hallowern Pack By Gabi",
-      "sha256": "9748e8b5934a615c74667da034dec2f1926d7762eb26d73927098ea94530795f",
-      "size": 11724,
+      "sha256": "e37a9dae6805f8c910a4bbf33b2ce12a0305878d8aeeadaf34e36001368559a8",
+      "size": 23871,
       "preview": "previews/crystal_hallowern_pack_by_gabi.png"
     },
     {
@@ -7357,8 +7349,8 @@
       "id": "armor_hallowern_pack_by_gabi",
       "category": "armor",
       "name": "Hallowern Pack By Gabi",
-      "sha256": "aa4517ab56ab15bd1777b215b13542c81e6db42ae1d4567abccaf5470d817854",
-      "size": 6240,
+      "sha256": "9833482718bd5bbf0b7d5d0aa27811a4f3060d63072f8a2933e209c03bc73b59",
+      "size": 24305,
       "preview": "previews/armor_hallowern_pack_by_gabi.png"
     },
     {
@@ -7381,8 +7373,8 @@
       "id": "crystal_hitsonly_s_aqua_pack_1_21_11",
       "category": "crystal",
       "name": "HitsOnly`s Aqua Pack_1.21.11",
-      "sha256": "51ea691f10bc10883d67f6a58faf5dd8abf1f4df1719cf0224495da2d921f6ab",
-      "size": 2631,
+      "sha256": "2310671dc26b81192e359b08fa24943008ce173203204787a07c5b4500dc20a7",
+      "size": 4908,
       "preview": "previews/crystal_hitsonly_s_aqua_pack_1_21_11.png"
     },
     {
@@ -7445,8 +7437,8 @@
       "id": "armor_hitsonly_s_aqua_pack_1_21_11",
       "category": "armor",
       "name": "HitsOnly`s Aqua Pack_1.21.11",
-      "sha256": "221567450c87e09c4c2ed12df90bdf4f71e4c6781fcd3cd9616052abb2c79003",
-      "size": 8029,
+      "sha256": "24eb61adbe04fabb3c8d150605e4d5e309b9bebe36532fd9b73b0810225b7023",
+      "size": 9708,
       "preview": "previews/armor_hitsonly_s_aqua_pack_1_21_11.png"
     },
     {
@@ -7501,8 +7493,8 @@
       "id": "crystal_hitsonlys_hellokitty_pack_1_",
       "category": "crystal",
       "name": "HitsOnlys HelloKitty Pack_1.21.1",
-      "sha256": "e6e499ffc8037b9fa08ffe49431d79eb47d9bbf9d60ea079a0622d29267b2fb0",
-      "size": 72405,
+      "sha256": "3a08a1c0109c97ee70c3e291910acd733bfff7941a52742568e52ae2a7d612ed",
+      "size": 78638,
       "preview": "previews/crystal_hitsonlys_hellokitty_pack_1_.png"
     },
     {
@@ -7557,8 +7549,8 @@
       "id": "armor_hitsonlys_hellokitty_pack_1_",
       "category": "armor",
       "name": "HitsOnlys HelloKitty Pack_1.21.1",
-      "sha256": "e2a5292daf173850aed47805564406624c5bce89832da176392f14f5dcae9ede",
-      "size": 7499,
+      "sha256": "10fe50a96fbc22b8b999e97b9e9d803609ed19664bc2280b7dced9ae227f9ce6",
+      "size": 9122,
       "preview": "previews/armor_hitsonlys_hellokitty_pack_1_.png"
     },
     {
@@ -7645,8 +7637,8 @@
       "id": "crystal_invis_crystals",
       "category": "crystal",
       "name": "Invis Crystals",
-      "sha256": "2cb5a1ea9f0ed2af422232cdf99f72d9ee07547d72396f05444e92f44ea97f0a",
-      "size": 6484,
+      "sha256": "bcd60330ac18459c637d2d944da5f1631dfeb3c1b9018603ba8a9ca696b09783",
+      "size": 7597,
       "preview": "previews/crystal_invis_crystals.png"
     },
     {
@@ -7677,8 +7669,8 @@
       "id": "crystal_kesie_blueberry_1",
       "category": "crystal",
       "name": "Kesie BlueBerry (1)",
-      "sha256": "d97e587653bee0865d4f885842da2b28dce94fb5580a8a1be67007fb59594249",
-      "size": 6585,
+      "sha256": "8ef12a2aa4251877c1a84db2856ba429dd9dced281924ed30a339a9c9dd77616",
+      "size": 7395,
       "preview": "previews/crystal_kesie_blueberry_1.png"
     },
     {
@@ -7733,8 +7725,8 @@
       "id": "armor_kesie_blueberry_1",
       "category": "armor",
       "name": "Kesie BlueBerry (1)",
-      "sha256": "233fabdd92e6048946bfd62ee5573dff789c9b2b9a7c8393ce507854e3c90c49",
-      "size": 2654,
+      "sha256": "e39d56fbc40186bcadeaeaf90c0b4aa414942179b9b29d955e8eb0fa0417bc11",
+      "size": 5131,
       "preview": "previews/armor_kesie_blueberry_1.png"
     },
     {
@@ -7773,8 +7765,8 @@
       "id": "armor_kesie_blueberry",
       "category": "armor",
       "name": "Kesie BlueBerry",
-      "sha256": "d369adbb747e1bc4fac4e3af545eff9a64cc6bf842ccf4a46796186507b5b08f",
-      "size": 4232,
+      "sha256": "a5e2d1a1400ca93aae7ccd74708a947426754440a165faf21e930b7aded84e57",
+      "size": 5127,
       "preview": "previews/armor_kesie_blueberry.png"
     },
     {
@@ -7789,8 +7781,8 @@
       "id": "crystal_kesie_meteor_purple",
       "category": "crystal",
       "name": "Kesie Meteor Purple",
-      "sha256": "e1f5e9cb6cb58a21b9deb9a24fd19614e23154b85df5d5654ae77ac54076c5bd",
-      "size": 7754,
+      "sha256": "9b98f9b9a3374e3331bfff9bcf5cf0e6420cef2119a4685ea21226bcd2263e5b",
+      "size": 12016,
       "preview": "previews/crystal_kesie_meteor_purple.png"
     },
     {
@@ -7877,8 +7869,8 @@
       "id": "crystal_kesie_optimal",
       "category": "crystal",
       "name": "Kesie Optimal",
-      "sha256": "a635ebcaf8e3bf1962e8d0b7fa6d4e69f7017ccf7448ea8f01f7715caa698135",
-      "size": 21670,
+      "sha256": "3705850426bc1c3ca622b0d9c1593d03439afb13ee826b114cbcc04bd1caac27",
+      "size": 42447,
       "preview": "previews/crystal_kesie_optimal.png"
     },
     {
@@ -8005,8 +7997,8 @@
       "id": "crystal_kesu_main_gabi_violet_recolo",
       "category": "crystal",
       "name": "Kesu Main Gabi Violet Recolor",
-      "sha256": "3f76548b850f8865e731382c0424e8b34e2bd17a33016915dc1d475c400faa34",
-      "size": 10389,
+      "sha256": "96289be6687189c717cbe4f70478442125f2b36e771f42ada4355d72aca20b52",
+      "size": 17251,
       "preview": "previews/crystal_kesu_main_gabi_violet_recolo.png"
     },
     {
@@ -8053,8 +8045,8 @@
       "id": "armor_kesu_main_gabi_violet_recolo",
       "category": "armor",
       "name": "Kesu Main Gabi Violet Recolor",
-      "sha256": "74e539a7fbe3113e25814c5c10fffcb44d4e713b4521371cc990a9432c0aec46",
-      "size": 3928,
+      "sha256": "d9bf6031013deec5940d083c5f2bd872486e44b50b52c895d4559a8fb4264a75",
+      "size": 4781,
       "preview": "previews/armor_kesu_main_gabi_violet_recolo.png"
     },
     {
@@ -8080,14 +8072,6 @@
       "sha256": "317b4e614c1304532076f798b439de295a3e0a84b7669a36ea7c111aac9b3b2d",
       "size": 1158,
       "preview": "previews/snow_kesu_main_gabi_violet_recolo.png"
-    },
-    {
-      "id": "crystal_kevaay_priv_pack",
-      "category": "crystal",
-      "name": "Kevaay_Priv_Pack",
-      "sha256": "4599de58dd962c780fcdce2cc2137348559b05992925771e2cbb44c3a5bc772f",
-      "size": 1784,
-      "preview": "previews/crystal_kevaay_priv_pack.png"
     },
     {
       "id": "sword_kevaay_priv_pack",
@@ -8189,8 +8173,8 @@
       "id": "armor_legendice_team_pack",
       "category": "armor",
       "name": "LEGENDICE_team_pack",
-      "sha256": "1838854f49ecf5bc59fe40adffe6f508b6226a6a60d874fa46d65c6f65ab5388",
-      "size": 11081,
+      "sha256": "a8210279446378084e33e22f8eea6e049216f6eff976fe77068f5fecea60377e",
+      "size": 22025,
       "preview": "previews/armor_legendice_team_pack.png"
     },
     {
@@ -8245,8 +8229,8 @@
       "id": "crystal_lavender_dream",
       "category": "crystal",
       "name": "Lavender Dream",
-      "sha256": "350a17e11559687607a7969533230e93b0562021697b1bd6b5bdb6745236d4aa",
-      "size": 9704,
+      "sha256": "b9aa73a4fca770736bfd8c146113a2e77efeb2842a3bcd5bd052c017292b55e5",
+      "size": 14007,
       "preview": "previews/crystal_lavender_dream.png"
     },
     {
@@ -8317,8 +8301,8 @@
       "id": "crystal_ledgemain_remake_xgomme",
       "category": "crystal",
       "name": "LedgeMain remake xGomme",
-      "sha256": "0308f2c0628b4f0a29a06e7a8040e2d3bb05598c10d83b4459077d16bc1050a0",
-      "size": 2930,
+      "sha256": "18325f260aee9052b67e2633e81eec14318e6ee44a2d74a1c71dad7b2a69676a",
+      "size": 5135,
       "preview": "previews/crystal_ledgemain_remake_xgomme.png"
     },
     {
@@ -8405,8 +8389,8 @@
       "id": "armor_lluri_s_20smp_20pack_20v2",
       "category": "armor",
       "name": "Lluri's%20SMP%20Pack%20v2",
-      "sha256": "58d565b1c06e58d8b4bb1b19c0d4593c76482982974e9259261ed14661d935e4",
-      "size": 25398,
+      "sha256": "e9067e5f4000589ce6fe38b4b67775ee2db5fe3c5fef08fc20fa8854c5d47f48",
+      "size": 34184,
       "preview": "previews/armor_lluri_s_20smp_20pack_20v2.png"
     },
     {
@@ -8429,8 +8413,8 @@
       "id": "anchor_mexus_private_remade_by_swet",
       "category": "anchor",
       "name": "Mexus private remade by swetsy",
-      "sha256": "6ec85782eb4cfe132256c9ec48f5e165c2af88156c5400ed33b2accf03a25815",
-      "size": 24993,
+      "sha256": "0520a25c46d67fdc725dd14b01b4475f5dbfa14192c5aecb4ee4fac42318e2d7",
+      "size": 25523,
       "preview": "previews/anchor_mexus_private_remade_by_swet.png"
     },
     {
@@ -8453,8 +8437,8 @@
       "id": "crystal_notlewis_blue_revamp",
       "category": "crystal",
       "name": "Notlewis Blue Revamp",
-      "sha256": "2c1e8f9596b4d4b74def779e43e78165fed7ab7fa88bac7e509c6dde134da447",
-      "size": 4517,
+      "sha256": "2d282879162e43cc4b2aa47f80406c92b57c63c605040f0f64f1bb0858cb03f3",
+      "size": 6975,
       "preview": "previews/crystal_notlewis_blue_revamp.png"
     },
     {
@@ -8509,8 +8493,8 @@
       "id": "armor_pvp_nootypack_v1_3_1_21_2_1_",
       "category": "armor",
       "name": "PVP NootyPack v1.3_1.21.2-1.21.5",
-      "sha256": "def41610985830cbbaea366d1058c133c73ccba175b34d180c184930890d3102",
-      "size": 1218,
+      "sha256": "339d3a3a40d0deca8ba09f3b53de6bef2693572ee8cd24a1d3fe9873c5dda496",
+      "size": 4204,
       "preview": "previews/armor_pvp_nootypack_v1_3_1_21_2_1_.png"
     },
     {
@@ -8557,8 +8541,8 @@
       "id": "crystal_pigpack",
       "category": "crystal",
       "name": "PigPack",
-      "sha256": "f77a5d26e9591984befe5c5d2ae3d9f0183b3c2c11134aaab154db75a7bc34ee",
-      "size": 7600,
+      "sha256": "3272dca63c14363297ca8dcb57f0a813573b81d24d96e073a0d58b06db3fe8c1",
+      "size": 12745,
       "preview": "previews/crystal_pigpack.png"
     },
     {
@@ -8669,8 +8653,8 @@
       "id": "crystal_pink_vanilla",
       "category": "crystal",
       "name": "Pink Vanilla+",
-      "sha256": "0f9a5a7fda5e0de2b45b0e0815f9082d0b1380c7b931b41a7f0bf985be200e47",
-      "size": 11123,
+      "sha256": "ca873e212fc3a0fd591315bfe489dd31ef4739a1af71610fe0692f953d6c8523",
+      "size": 12375,
       "preview": "previews/crystal_pink_vanilla.png"
     },
     {
@@ -8725,8 +8709,8 @@
       "id": "armor_pink_vanilla",
       "category": "armor",
       "name": "Pink Vanilla+",
-      "sha256": "1248c86aa6fc89790184b3b048528fb9776e1fdb3cafdf66b1a58e336fdc0600",
-      "size": 46077,
+      "sha256": "632c6b34b91531d94f2f13c6305bc7979f107574b98037e4a1a82e577fe82ee7",
+      "size": 56246,
       "preview": "previews/armor_pink_vanilla.png"
     },
     {
@@ -8813,8 +8797,8 @@
       "id": "armor_pinkfault",
       "category": "armor",
       "name": "Pinkfault",
-      "sha256": "971287d1037bfa0e3f5ef2588c433f94d4bebfe96e7dcf18e215750c1445df94",
-      "size": 17736,
+      "sha256": "7a076253b763413a7b9094a7f7743216711fe6c06dd6950b22ca709c7f0c6223",
+      "size": 20939,
       "preview": "previews/armor_pinkfault.png"
     },
     {
@@ -8829,8 +8813,8 @@
       "id": "crystal_polar",
       "category": "crystal",
       "name": "Polar",
-      "sha256": "21ed2953a6ac5c5c30132d3a57f33a58cd8146b55b2c6e4ccd6408b14050ec95",
-      "size": 5434,
+      "sha256": "7cdef9f1ff6f78ead87624f47b51104ed841225c8f61165013b572eee94a5a78",
+      "size": 8926,
       "preview": "previews/crystal_polar.png"
     },
     {
@@ -8869,8 +8853,8 @@
       "id": "crystal_primitive_pvp",
       "category": "crystal",
       "name": "Primitive PvP",
-      "sha256": "00b33fa48f75aed5fb3093be145848de5aef6c9da1fba34d41bac141f0e87a11",
-      "size": 2783,
+      "sha256": "2665396f140c8dce9da9f3e56ffb3217f55b1eb99b1864e2f00ae4a30b9ecdb4",
+      "size": 4869,
       "preview": "previews/crystal_primitive_pvp.png"
     },
     {
@@ -8885,8 +8869,8 @@
       "id": "crystal_purple_vanilla_1",
       "category": "crystal",
       "name": "Purple Vanilla+ (1)",
-      "sha256": "f4ba0dae11b5b790afb80bfbb569645f6d8c03751b39a370a6c873c2e502904e",
-      "size": 4012,
+      "sha256": "512d2240010012d1f75c0d18bfb653c9f964fca136a437ad81100c1a9e367861",
+      "size": 4809,
       "preview": "previews/crystal_purple_vanilla_1.png"
     },
     {
@@ -8917,8 +8901,8 @@
       "id": "armor_purple_vanilla_1",
       "category": "armor",
       "name": "Purple Vanilla+ (1)",
-      "sha256": "b7971dffec45267b6025a41f125d0d78756daf28f1e9f34f9c5f3b4069fce47b",
-      "size": 46396,
+      "sha256": "29cc740045e0ad9eb6af6d87d24429a922eed99f00e83b28912b023336b38f2f",
+      "size": 55264,
       "preview": "previews/armor_purple_vanilla_1.png"
     },
     {
@@ -8949,8 +8933,8 @@
       "id": "crystal_purple_lquintessence_walksy",
       "category": "crystal",
       "name": "Purple lquintessence - Walksy",
-      "sha256": "28a00a3882389702043af217a814d7c3fa3b5f72706bad6f2928350513a3f810",
-      "size": 39837,
+      "sha256": "bc4ea1572a6cd011f45162275d8625d9cf761136828602a7834e25c8bc4ab5ce",
+      "size": 11560,
       "preview": "previews/crystal_purple_lquintessence_walksy.png"
     },
     {
@@ -9021,8 +9005,8 @@
       "id": "armor_purple_lquintessence_walksy",
       "category": "armor",
       "name": "Purple lquintessence - Walksy",
-      "sha256": "0370a481f863711fdef2ce0c774ebe1dee40ab6689add6719b409d6ccff8f79d",
-      "size": 12297,
+      "sha256": "65631edafddac387260278b53e3eaad314e53fade7b7070f4c11501c7c2e9593",
+      "size": 26863,
       "preview": "previews/armor_purple_lquintessence_walksy.png"
     },
     {
@@ -9080,14 +9064,6 @@
       "sha256": "d9d1b4f7d7810d173c4b5e8231e28b2662e4eeef2bd677d280966ea57a75c322",
       "size": 143580,
       "preview": "previews/inventory_purple_lquintessence_walksy.png"
-    },
-    {
-      "id": "crystal_purpled_default_edit",
-      "category": "crystal",
-      "name": "Purpled Default Edit",
-      "sha256": "91bac683c09455b0a0dfbe6ee2ff07445f1bab943bc994cedad80495b3904dd2",
-      "size": 1557,
-      "preview": "previews/crystal_purpled_default_edit.png"
     },
     {
       "id": "sword_purpled_default_edit",
@@ -9181,8 +9157,8 @@
       "id": "crystal_quelchi_butterfly",
       "category": "crystal",
       "name": "Quelchi Butterfly",
-      "sha256": "15876b4c1b0244ed64e04eb943099445b265e6ee22faad92cd469c8276152878",
-      "size": 2420,
+      "sha256": "b55c374232f7eaff91df16a610c0b331a18fdcd6eb5004ad92b8d67044588898",
+      "size": 3590,
       "preview": "previews/crystal_quelchi_butterfly.png"
     },
     {
@@ -9237,8 +9213,8 @@
       "id": "armor_quelchi_butterfly",
       "category": "armor",
       "name": "Quelchi Butterfly",
-      "sha256": "68cb38bae84fbc5deb9b66675bf1bf03b413938d028c812aba61c4a8bead7940",
-      "size": 3124,
+      "sha256": "9502bef2d04c590a7a40d131c405959fa953458a4084a5a9c58b8f9fd15e4567",
+      "size": 11853,
       "preview": "previews/armor_quelchi_butterfly.png"
     },
     {
@@ -9301,8 +9277,8 @@
       "id": "crystal_red_zhjhhjcahhcbacd",
       "category": "crystal",
       "name": "RED zhjhhjcahhcbacd",
-      "sha256": "54722159996340e7611a28d311b168b599454236c4b9bdb2134fabb7791083ba",
-      "size": 3664,
+      "sha256": "b339ca390458409d90736db6d7d38d70e47896a71284aee143281cace55b47ce",
+      "size": 5546,
       "preview": "previews/crystal_red_zhjhhjcahhcbacd.png"
     },
     {
@@ -9373,8 +9349,8 @@
       "id": "armor_red_zhjhhjcahhcbacd",
       "category": "armor",
       "name": "RED zhjhhjcahhcbacd",
-      "sha256": "190b5b349d92c33bc91df8c6a565d69c24a3958ee50b5b6598381885e0eaae23",
-      "size": 20075,
+      "sha256": "f67aa6003d0e03fdbff291a9bc5476c78f8a66c6cc3b959f6321e072a80bb3b9",
+      "size": 36510,
       "preview": "previews/armor_red_zhjhhjcahhcbacd.png"
     },
     {
@@ -9485,8 +9461,8 @@
       "id": "crystal_red_revolution_1",
       "category": "crystal",
       "name": "Red Revolution(1)",
-      "sha256": "57c9f0d0e0909b555372f46f4e4597fd27b0d4093c06030f5f2d5d5f5f0b5852",
-      "size": 6554,
+      "sha256": "b5160aa7dd2b2c0a9df692cbaeef9809266f659e69c3831a7c80bf23c72a7872",
+      "size": 10017,
       "preview": "previews/crystal_red_revolution_1.png"
     },
     {
@@ -9533,8 +9509,8 @@
       "id": "armor_red_revolution_1",
       "category": "armor",
       "name": "Red Revolution(1)",
-      "sha256": "a03730c9d509a4b0cacafca36b73b6f8d81e68d10a6d058fc9cce427792a9342",
-      "size": 16988,
+      "sha256": "8254c7f84e115d386beeec2cbbafcba6fa27a890bdb2c59fca4fe7488f319218",
+      "size": 20853,
       "preview": "previews/armor_red_revolution_1.png"
     },
     {
@@ -9621,8 +9597,8 @@
       "id": "crystal_rwust_pack",
       "category": "crystal",
       "name": "Rwust_pack",
-      "sha256": "502981aba99d5fb7c4670cfc6a3b76b49b2198b337433116e6c4f9720c5fbcf8",
-      "size": 14108,
+      "sha256": "ede85e03567fbe8e28a56dba5a201ee0b0870dd166afe548ae8c94f1a6960a96",
+      "size": 15066,
       "preview": "previews/crystal_rwust_pack.png"
     },
     {
@@ -9677,8 +9653,8 @@
       "id": "armor_rwust_pack",
       "category": "armor",
       "name": "Rwust_pack",
-      "sha256": "b1e226f63270d1a5a831d174b58fef3461789da2a274f8be4cccf87e5cae0a86",
-      "size": 37779,
+      "sha256": "b8f0066031107956c1f79a8b91b8eefdd2f45833d9a4822b389206fc3ef55cde",
+      "size": 59144,
       "preview": "previews/armor_rwust_pack.png"
     },
     {
@@ -9701,8 +9677,8 @@
       "id": "crystal_sakura_tweaks_2",
       "category": "crystal",
       "name": "Sakura Tweaks 2",
-      "sha256": "2949021fe2ba109b8ac922575fecc79634e08c8756ded8612fb1528ef3161b79",
-      "size": 2837,
+      "sha256": "1ba39f4ff7b7d68a3adb56e0898b4804ff52f644a7811abbe61d7eafc814f395",
+      "size": 4688,
       "preview": "previews/crystal_sakura_tweaks_2.png"
     },
     {
@@ -9757,8 +9733,8 @@
       "id": "armor_sakura_tweaks_2",
       "category": "armor",
       "name": "Sakura Tweaks 2",
-      "sha256": "ab9fff311e2234a25e1dd12facdc7da4394ffa54d55a5d129934fcd0d7996bb7",
-      "size": 17694,
+      "sha256": "e7d757849cde99ab2a480bffd5a8e181f3199ad4d6f0469b4bbcf3ae6df99169",
+      "size": 21885,
       "preview": "previews/armor_sakura_tweaks_2.png"
     },
     {
@@ -9813,8 +9789,8 @@
       "id": "crystal_sakuratweaksfor1_21",
       "category": "crystal",
       "name": "SakuraTweaksFor1.21",
-      "sha256": "57104e839f4d49854b5ab63cbd9735b17c008819710d8612e9986d1c1ed656b2",
-      "size": 2249,
+      "sha256": "4b63ad6b69d77157e5fa3caf320fdab3cf0498286c7e118dedc8a82ee5d22eda",
+      "size": 3560,
       "preview": "previews/crystal_sakuratweaksfor1_21.png"
     },
     {
@@ -9869,8 +9845,8 @@
       "id": "crystal_sayad_s_pack",
       "category": "crystal",
       "name": "Sayad's Pack",
-      "sha256": "2e420e6afb6ee9b2835d3b00f9b6028b508b21f70a894073ba2a9ee831119f0a",
-      "size": 2975,
+      "sha256": "3bdde1edaff33717fee0cf47040ebaf07ceef1779cd6e03885e225e294633989",
+      "size": 5419,
       "preview": "previews/crystal_sayad_s_pack.png"
     },
     {
@@ -9941,8 +9917,8 @@
       "id": "armor_sayad_s_pack",
       "category": "armor",
       "name": "Sayad's Pack",
-      "sha256": "8164305a8e687e6104ef906fa0eb16122aa0e5a7a84a73bf82f6006f420c5cc2",
-      "size": 13263,
+      "sha256": "a17908b3177e1950a9ff8d8c4e8634de2b3abef46a7091bf2204223a7f357687",
+      "size": 41232,
       "preview": "previews/armor_sayad_s_pack.png"
     },
     {
@@ -10045,8 +10021,8 @@
       "id": "crystal_shadow_16x",
       "category": "crystal",
       "name": "Shadow 16x",
-      "sha256": "36533d88ee4e5e0579bf37b93016eb4a4959777a2f314c77405cc655adc76cfd",
-      "size": 3111,
+      "sha256": "f157cadbe8e83d829d2de6046dd0fad9fb24fd819d2390e55b7d7b7479e7c797",
+      "size": 4934,
       "preview": "previews/crystal_shadow_16x.png"
     },
     {
@@ -10093,8 +10069,8 @@
       "id": "armor_shadow_16x",
       "category": "armor",
       "name": "Shadow 16x",
-      "sha256": "972a83bd405ab459fcd1f54f326b4f136c28675cdcb5cbd22b483b1b524bba27",
-      "size": 24475,
+      "sha256": "c9d21b9216d31e9ee81327e6a690a8cae98e83b7580cd1facbcbb468e9c79cca",
+      "size": 28990,
       "preview": "previews/armor_shadow_16x.png"
     },
     {
@@ -10293,8 +10269,8 @@
       "id": "armor_soonmedia_macros",
       "category": "armor",
       "name": "Soonmedia macros",
-      "sha256": "de7c32af80e08871fc78351455bd3f9cd9550ccc8062e7ab534979bcbb10051b",
-      "size": 3161,
+      "sha256": "1cdfbfc9f54f80bb53cd8f66c849e2c716f177f7be9947310f163db8d692a380",
+      "size": 12084,
       "preview": "previews/armor_soonmedia_macros.png"
     },
     {
@@ -10349,8 +10325,8 @@
       "id": "crystal_swetsy_x_vanilla_enchaned_pu",
       "category": "crystal",
       "name": "Swetsy X vanilla enchaned (purpl",
-      "sha256": "bbbf2c437501ee83573bbe67352acfddb7f88b3bd2701cf44a767a6e5229a7e9",
-      "size": 6079,
+      "sha256": "7aa30c46f152f838e65401223667991ba89dd3b21d4488cddf97138b5759e228",
+      "size": 9595,
       "preview": "previews/crystal_swetsy_x_vanilla_enchaned_pu.png"
     },
     {
@@ -10413,8 +10389,8 @@
       "id": "armor_swetsy_x_vanilla_enchaned_pu",
       "category": "armor",
       "name": "Swetsy X vanilla enchaned (purpl",
-      "sha256": "db170691e206199c9629901dd35b35dbff0d92900a0f3e0a3809348e0a835324",
-      "size": 10683,
+      "sha256": "1516aabcaa5a59b1756ecb207359138145d75cbcb074bbeb35f78500f1c536f3",
+      "size": 17965,
       "preview": "previews/armor_swetsy_x_vanilla_enchaned_pu.png"
     },
     {
@@ -10461,8 +10437,8 @@
       "id": "crystal_swetsy_gray",
       "category": "crystal",
       "name": "Swetsy gray",
-      "sha256": "b328fee0ab3c3c7c075a147584fce0f6688b313227139d6f4af8053d8af56c82",
-      "size": 5074,
+      "sha256": "3c99fc56f6708b7181ac41929092ea9b46e5ced61d6790a990177be22fc1ae6d",
+      "size": 8804,
       "preview": "previews/crystal_swetsy_gray.png"
     },
     {
@@ -10493,8 +10469,8 @@
       "id": "crystal_swetsy_green_pack",
       "category": "crystal",
       "name": "Swetsy green pack",
-      "sha256": "4e9f95ecafd2644ae7d3f7d60ba0cccccf1086eb3d0046668879105660c323e2",
-      "size": 4153,
+      "sha256": "f4a84c20bd65845e8e9455d5481e456022a7a09052501fc143281e935cac42fe",
+      "size": 7553,
       "preview": "previews/crystal_swetsy_green_pack.png"
     },
     {
@@ -10581,8 +10557,8 @@
       "id": "crystal_swetsy_pastel_pink",
       "category": "crystal",
       "name": "Swetsy pastel pink",
-      "sha256": "44587bd96889fbcd3024a57fb517fd7bf91ee73128f3a07c7c6de5642e4ae451",
-      "size": 5467,
+      "sha256": "04a872774bc7a245c9fd271a7e716c14fcb6221672fa1c83ce000aac3ba1ea5b",
+      "size": 9052,
       "preview": "previews/crystal_swetsy_pastel_pink.png"
     },
     {
@@ -10629,8 +10605,8 @@
       "id": "armor_swetsy_pastel_pink",
       "category": "armor",
       "name": "Swetsy pastel pink",
-      "sha256": "b622bc243c2908e97b45bfaffa930d6c2d7a2ea05e3d74ddd7a94c12f265ac6d",
-      "size": 1141,
+      "sha256": "8ef753da4e38b546716db04a3f73ac7b8b06296ab84098148193a4a6d8413e55",
+      "size": 3920,
       "preview": "previews/armor_swetsy_pastel_pink.png"
     },
     {
@@ -10717,8 +10693,8 @@
       "id": "crystal_swetsy_whiteee",
       "category": "crystal",
       "name": "Swetsy whiteee",
-      "sha256": "e0c8b0e5461b4eb13ab5f3254c058c2c8c41e0c95fc9c68290123b673a5caa8d",
-      "size": 13614,
+      "sha256": "7ba60acc466a8dd3427437d8a35006addd40a1192f124f0e21443f40abe1e619",
+      "size": 20257,
       "preview": "previews/crystal_swetsy_whiteee.png"
     },
     {
@@ -10786,14 +10762,6 @@
       "preview": "previews/anchor_swetsys_privatee_purple.png"
     },
     {
-      "id": "crystal_swetsys_privatee_purple",
-      "category": "crystal",
-      "name": "Swetsys privatee (purple)",
-      "sha256": "c4611d51368884ad80e099924bbd4f6a46fe2bbd06378dfc925c2405e7d5f63a",
-      "size": 6024,
-      "preview": "previews/crystal_swetsys_privatee_purple.png"
-    },
-    {
       "id": "sword_swetsys_privatee_purple",
       "category": "sword",
       "name": "Swetsys privatee (purple)",
@@ -10853,8 +10821,8 @@
       "id": "armor_swetsys_privatee_purple",
       "category": "armor",
       "name": "Swetsys privatee (purple)",
-      "sha256": "0607681b10d5dd63b223b7d5596f9b425cc9f30b4edab0b693632b25ff1916be",
-      "size": 11698,
+      "sha256": "34549818764a05fc8e10a6be75c36e6a382fca2da7c777fa572ce28a6f9eba52",
+      "size": 18293,
       "preview": "previews/armor_swetsys_privatee_purple.png"
     },
     {
@@ -10885,8 +10853,8 @@
       "id": "crystal_swetsys_red_mashup",
       "category": "crystal",
       "name": "Swetsys red mashup",
-      "sha256": "c9b7e0472a7d206e321aaed2ffe5b70e9b645874ce0075930e51172ba4a6f4d2",
-      "size": 7569,
+      "sha256": "46ca25e9c40e3cd52e665d789e2e2d7ecc9db2e8476b0554d993753b3f548524",
+      "size": 15564,
       "preview": "previews/crystal_swetsys_red_mashup.png"
     },
     {
@@ -10941,8 +10909,8 @@
       "id": "crystal_swetsys_white_mashup",
       "category": "crystal",
       "name": "Swetsys white mashup",
-      "sha256": "7d15a96436ac747c9d32ca52a7715b9bc9a52d3fafdacad99f49dd535520b019",
-      "size": 6995,
+      "sha256": "5b6c3d643fd30fccbda2056639564386b9a4d97e8d5ef54ed216e53fa5e798f0",
+      "size": 14414,
       "preview": "previews/crystal_swetsys_white_mashup.png"
     },
     {
@@ -10997,8 +10965,8 @@
       "id": "armor_swight_v3",
       "category": "armor",
       "name": "Swight V3",
-      "sha256": "20c73c87f3973246cbd519b73b895b9fe25c8de4ec9130abf6615cca7543dee0",
-      "size": 29576,
+      "sha256": "7b17a3bc0037a57a2b710122b8cc088853062286339f42fc5116610dfa411a4b",
+      "size": 102287,
       "preview": "previews/armor_swight_v3.png"
     },
     {
@@ -11053,8 +11021,8 @@
       "id": "crystal_t1n_pvp_triple_tung_tung",
       "category": "crystal",
       "name": "T1N pvp Triple Tung Tung",
-      "sha256": "2b053547394104357af151b3272939179fccf173ca2017f985acaa3a4f638d1b",
-      "size": 4683,
+      "sha256": "57a4778081321e84d6ab3340d8764ea1c4733ee3378f3b310a04c91a4c2ad03d",
+      "size": 5684,
       "preview": "previews/crystal_t1n_pvp_triple_tung_tung.png"
     },
     {
@@ -11109,8 +11077,8 @@
       "id": "armor_t1n_pvp_triple_tung_tung",
       "category": "armor",
       "name": "T1N pvp Triple Tung Tung",
-      "sha256": "724aee7063207e92793025654c256ac4bd60f98a35ead6cccdf7f0489cf88ddd",
-      "size": 6865,
+      "sha256": "1d3585b91e6636023aacd1d29566e2007ded36286fdf47dda36612ebf02bfda0",
+      "size": 8422,
       "preview": "previews/armor_t1n_pvp_triple_tung_tung.png"
     },
     {
@@ -11157,8 +11125,8 @@
       "id": "crystal_testmaster11_and_awerial_pri",
       "category": "crystal",
       "name": "TestMaster11 And Awerial Private",
-      "sha256": "4c92ac5f2328e0d7c84248b701aac0e7f2ac64f3bcc873e3cd3cd08ae52589ee",
-      "size": 1728,
+      "sha256": "128a75a1701ad351501ddf42ba32b8c4bb3682bfcce8c7b82b4b1af6a9201fb0",
+      "size": 2291,
       "preview": "previews/crystal_testmaster11_and_awerial_pri.png"
     },
     {
@@ -11197,8 +11165,8 @@
       "id": "armor_testmaster11_and_awerial_pri",
       "category": "armor",
       "name": "TestMaster11 And Awerial Private",
-      "sha256": "fdbfb629b5905115a8ca34578f6c4d87074059c6578adac841b6c024132e3998",
-      "size": 51695,
+      "sha256": "18e90d2e99b3dbe854b58b69a14cb75ebfe6435f96be52dd03bbc8d3100d3777",
+      "size": 61447,
       "preview": "previews/armor_testmaster11_and_awerial_pri.png"
     },
     {
@@ -11253,8 +11221,8 @@
       "id": "crystal_testmaster7_s_pack_lt1_test",
       "category": "crystal",
       "name": "Testmaster7's pack lt1 test",
-      "sha256": "e8b776facacff059ddcd1264e4353c2edbd5918b5688d4b50315e6cea2bd640b",
-      "size": 6451,
+      "sha256": "80ae6c3d89de10571fad4f19af804d5bb649baad614519d44bc94ff46b2a6099",
+      "size": 9114,
       "preview": "previews/crystal_testmaster7_s_pack_lt1_test.png"
     },
     {
@@ -11309,8 +11277,8 @@
       "id": "armor_testmaster7_s_pack_lt1_test",
       "category": "armor",
       "name": "Testmaster7's pack lt1 test",
-      "sha256": "1b7ba2b4cc718b4fa34bd3080eff3ee8685a69d6086e32152058c3a448f221bc",
-      "size": 22485,
+      "sha256": "52861161b6c19a8f3ba40ea40bd96f98e016909a9741588521326b3ae1deec20",
+      "size": 31067,
       "preview": "previews/armor_testmaster7_s_pack_lt1_test.png"
     },
     {
@@ -11357,8 +11325,8 @@
       "id": "crystal_toptiers_blue_priv_1",
       "category": "crystal",
       "name": "Toptiers blue+ PRIV (1)",
-      "sha256": "79c55596d3c68a22438397fa05bc197bcbf589c2cf2015a657e92e2f9dc58c79",
-      "size": 30453,
+      "sha256": "805d20440bdefad0026d68f9f2a04d82be31c50bbca62645ed40fb92998922de",
+      "size": 38698,
       "preview": "previews/crystal_toptiers_blue_priv_1.png"
     },
     {
@@ -11421,8 +11389,8 @@
       "id": "armor_toptiers_blue_priv_1",
       "category": "armor",
       "name": "Toptiers blue+ PRIV (1)",
-      "sha256": "acd6a974152ecf119b4abec19d1046a47fe7f8b681ab9f15de78315f2cd5f091",
-      "size": 2289,
+      "sha256": "c39290cc1fdf23332a9229a988b74cbe697f5237167d989bda0d69e8465fd3bb",
+      "size": 4399,
       "preview": "previews/armor_toptiers_blue_priv_1.png"
     },
     {
@@ -11453,8 +11421,8 @@
       "id": "crystal_toptiers_pink_priv",
       "category": "crystal",
       "name": "Toptiers pink+ PRIV",
-      "sha256": "bf264528319f2ae48307765131bd5a4e34af2c270d9d4b6f6af1a7e47d792d43",
-      "size": 30537,
+      "sha256": "e8f2bf38f9d06dc26dea7196a0611e1efc88d7565eef6a49aa498ba74a50d533",
+      "size": 38872,
       "preview": "previews/crystal_toptiers_pink_priv.png"
     },
     {
@@ -11517,8 +11485,8 @@
       "id": "armor_toptiers_pink_priv",
       "category": "armor",
       "name": "Toptiers pink+ PRIV",
-      "sha256": "11f78a667db41d4273cd143768be3b2153eda36bbdff18fd18f49ebe71c26cb1",
-      "size": 2286,
+      "sha256": "abc7939f0c9012012daace142928fa9acab89b36917df497f472361f4821cfd5",
+      "size": 4397,
       "preview": "previews/armor_toptiers_pink_priv.png"
     },
     {
@@ -11541,8 +11509,8 @@
       "id": "armor_toptiers_purp_priv",
       "category": "armor",
       "name": "Toptiers purp+ PRIV",
-      "sha256": "03a63f819228bea091e85d12b167b38334177b0c0138618aa2155b0f00b700d0",
-      "size": 3115,
+      "sha256": "531366df5fd40e0bb0abe1d23b950bb4d948a41ccaa602f78efbdd37b847ce8e",
+      "size": 3877,
       "preview": "previews/armor_toptiers_purp_priv.png"
     },
     {
@@ -11557,8 +11525,8 @@
       "id": "crystal_usecw_light_purple_2",
       "category": "crystal",
       "name": "UseCW Light Purple (2)",
-      "sha256": "3b726d7e1311ac04125252ca087905cbbd724278d302644b1f3245c95f4b88f7",
-      "size": 3306,
+      "sha256": "8bd9d5afed9e5cb5a0cb37ebba199022ee6b87e77e55993d40658dd9446814e6",
+      "size": 5730,
       "preview": "previews/crystal_usecw_light_purple_2.png"
     },
     {
@@ -11597,8 +11565,8 @@
       "id": "armor_usecw_light_purple_2",
       "category": "armor",
       "name": "UseCW Light Purple (2)",
-      "sha256": "d289168d43e34f314e49b18e9b9e5c4138af1d71fbd2a6f1e8a04700ac57d7e3",
-      "size": 1594,
+      "sha256": "4b2ada68872e6d061a6f11e5df3810b276cb9ae12832a192bb268345f82a4de7",
+      "size": 3008,
       "preview": "previews/armor_usecw_light_purple_2.png"
     },
     {
@@ -11621,8 +11589,8 @@
       "id": "crystal_usecw_violet",
       "category": "crystal",
       "name": "UseCW Violet",
-      "sha256": "987743e2e640a146a24880cbe64004022bd20d3da0fcebb77b788c08f9377144",
-      "size": 2348,
+      "sha256": "ddc1173d035cb277ed6845ad77c5ef0cf9a35be84e9ef3fbe5cde17cd7d66368",
+      "size": 4242,
       "preview": "previews/crystal_usecw_violet.png"
     },
     {
@@ -11645,8 +11613,8 @@
       "id": "armor_usecw_violet",
       "category": "armor",
       "name": "UseCW Violet",
-      "sha256": "4014cf69f87f18e6f505325dfa2f7acee83366eb38d045482e8a5b2b1b8f14d7",
-      "size": 2351,
+      "sha256": "34b2574da5d4d601dc4eb4a39758fbf6c875c5ec585043e4170b715b7b51a7cb",
+      "size": 4532,
       "preview": "previews/armor_usecw_violet.png"
     },
     {
@@ -11661,8 +11629,8 @@
       "id": "crystal_usecw_blue",
       "category": "crystal",
       "name": "UseCW blue",
-      "sha256": "449cb3af15d8b2fd7d67c12fe2904f3fd500b9386266a83e9abcfbc2a8773d72",
-      "size": 4459,
+      "sha256": "7697a418427b591fafabab5fba3764a2943db654f81bfb777b2a8d83a69233a2",
+      "size": 7154,
       "preview": "previews/crystal_usecw_blue.png"
     },
     {
@@ -11701,8 +11669,8 @@
       "id": "crystal_usecws_blackout",
       "category": "crystal",
       "name": "UseCws Blackout",
-      "sha256": "00d8ffa5180530d7a340fe9f93c97d63c0c2dad56e2500ea8df25ed7ffd765c6",
-      "size": 12480,
+      "sha256": "46e5c0534b862fa37ecc017af8f72803949eb1459ecf4fbc141cb1a55a383825",
+      "size": 14823,
       "preview": "previews/crystal_usecws_blackout.png"
     },
     {
@@ -11789,8 +11757,8 @@
       "id": "armor_vulgular_private_v2_streamer",
       "category": "armor",
       "name": "VULGULAR (private) V2-StreamerSt",
-      "sha256": "b1b059559cdfa6fe114d3ed1ea3954eb1c125ad21b6f3123c0655af725845e77",
-      "size": 39025,
+      "sha256": "8c7cf926d0a01cdb7482b9471a1467d2ae9f374b7fc555f376b97f932b820ae1",
+      "size": 71147,
       "preview": "previews/armor_vulgular_private_v2_streamer.png"
     },
     {
@@ -11893,8 +11861,8 @@
       "id": "crystal_vanilla_vision_1_21",
       "category": "crystal",
       "name": "Vanilla Vision 1.21",
-      "sha256": "194b3da76a609b765ecfe7670e4753eba93e9f64206a88386859af70cea43f9e",
-      "size": 8637,
+      "sha256": "3a817f39e000bf5eb1b81ecbf922035e3ee43bbe4e8da0a0c15b74e92454a2aa",
+      "size": 15097,
       "preview": "previews/crystal_vanilla_vision_1_21.png"
     },
     {
@@ -11957,8 +11925,8 @@
       "id": "armor_vanilla_vision_1_21",
       "category": "armor",
       "name": "Vanilla Vision 1.21",
-      "sha256": "20515c06ac23324c4040ff36ca36baf8b1e03dc3a8ec41378f46e10a3826c781",
-      "size": 7554,
+      "sha256": "df53600f8f204c4e7f4d9f1b9f886eaee640acdc850fb4ff556d0d212b616b3e",
+      "size": 15046,
       "preview": "previews/armor_vanilla_vision_1_21.png"
     },
     {
@@ -12029,8 +11997,8 @@
       "id": "crystal_vanilla_enhanced_marlows_pac",
       "category": "crystal",
       "name": "Vanilla enhanced + marlows pack",
-      "sha256": "13454ddd88bf620583677bb67b77e54cb446a94bf445f5d066865a87218adbc1",
-      "size": 3543,
+      "sha256": "54b82c8fb25c5d4a252dac245e850c7a0ec250ab764b093ef037c9127b658ce1",
+      "size": 5257,
       "preview": "previews/crystal_vanilla_enhanced_marlows_pac.png"
     },
     {
@@ -12045,8 +12013,8 @@
       "id": "armor_vanilla_enhanced_marlows_pac",
       "category": "armor",
       "name": "Vanilla enhanced + marlows pack",
-      "sha256": "c723f9b25227f95605cb6378c5fdb45447cc5cdcb8d6e8692f3aef44353bd23e",
-      "size": 97206,
+      "sha256": "4f60468a538b452711202c6fc3b427d5cab25aa5abab32d845014d9e675d6f62",
+      "size": 105843,
       "preview": "previews/armor_vanilla_enhanced_marlows_pac.png"
     },
     {
@@ -12101,8 +12069,8 @@
       "id": "armor_voidrose_private",
       "category": "armor",
       "name": "VoidRose Private",
-      "sha256": "08b7aea8c7ea413dd09ceb863c5dff7952d287ce803b596f3ea06ddd0c0085db",
-      "size": 1139,
+      "sha256": "6625759c4f048c3b4f4c32de33b93921ba9a4660aa1df3a25627bc9f556c5cd9",
+      "size": 3918,
       "preview": "previews/armor_voidrose_private.png"
     },
     {
@@ -12157,8 +12125,8 @@
       "id": "crystal_xsnakewhitepack",
       "category": "crystal",
       "name": "XsnakeWhitePack",
-      "sha256": "4352bff553eeed0d76721f28c0e493349516524a6296026593245d336acc361c",
-      "size": 4111,
+      "sha256": "26d64930d74941a81bc09894efaa878b29327ea8108e8f511c1078ef278b8278",
+      "size": 4884,
       "preview": "previews/crystal_xsnakewhitepack.png"
     },
     {
@@ -12213,8 +12181,8 @@
       "id": "armor_xsnakewhitepack",
       "category": "armor",
       "name": "XsnakeWhitePack",
-      "sha256": "654260e370ce597efb05ce5a180873937ce7e822a2aa0a76a1449988ffaf252f",
-      "size": 35874,
+      "sha256": "2b2320dee5d9aca61fd41c3f64c0b862da0b836b6692721c461f70164c2bc675",
+      "size": 55325,
       "preview": "previews/armor_xsnakewhitepack.png"
     },
     {
@@ -12437,8 +12405,8 @@
       "id": "crystal_blaaaaaack",
       "category": "crystal",
       "name": "blaaaaaack",
-      "sha256": "9a4a6a4e6824ccd30ac00b439c0f92c50009407fa025cd46ab5afb051a2569f9",
-      "size": 3126,
+      "sha256": "a2c99b738b7ecc76795f1de92398de8612bd73fe356c5e070d19680f5b6ce75a",
+      "size": 5648,
       "preview": "previews/crystal_blaaaaaack.png"
     },
     {
@@ -12493,8 +12461,8 @@
       "id": "crystal_blackblue_vision_1",
       "category": "crystal",
       "name": "blackBLUE vision (1)",
-      "sha256": "068e64bc620f47c9d94c8b31f091d95e31ecd3169cf3773ea5aeb979f7ceac4f",
-      "size": 15394,
+      "sha256": "3797e8f5b4a2cd9ab4bd5759beffd0fd39df2ff36e903c45643ea4606a09c8ba",
+      "size": 19108,
       "preview": "previews/crystal_blackblue_vision_1.png"
     },
     {
@@ -12541,8 +12509,8 @@
       "id": "armor_blackblue_vision_1",
       "category": "armor",
       "name": "blackBLUE vision (1)",
-      "sha256": "51c3a1fc53bc0a1ff8a9a7cdf9fab8455f9eeb6d757db9ef88d074d9d748600c",
-      "size": 9222,
+      "sha256": "719f8ee850b889ea1706963e665371911e9a80ac70a993047e0b221268900791",
+      "size": 17167,
       "preview": "previews/armor_blackblue_vision_1.png"
     },
     {
@@ -12677,8 +12645,8 @@
       "id": "crystal_calm_pack_1",
       "category": "crystal",
       "name": "calm pack (1)",
-      "sha256": "9dfb729b594f2ccaabc4a51bb5b804692818ce4c3dca511b9362f389a63a95a6",
-      "size": 5572,
+      "sha256": "cbe1cb670fc8ef26fd3183550b3b61a03757520583ed954b556bcaf9eea0d5ac",
+      "size": 10352,
       "preview": "previews/crystal_calm_pack_1.png"
     },
     {
@@ -12709,8 +12677,8 @@
       "id": "crystal_clevantii_pack_234_1",
       "category": "crystal",
       "name": "clEvantii_Pack_234 (1)",
-      "sha256": "d9167d5efc68163c22aa67237b82ba59c570a88157b44bdb87749384cdbce406",
-      "size": 6416,
+      "sha256": "55b89d0edf6c58a07e9f64a318a2c5d180c5c98b8cef6c9ae7deadfa81df3c21",
+      "size": 9924,
       "preview": "previews/crystal_clevantii_pack_234_1.png"
     },
     {
@@ -12741,8 +12709,8 @@
       "id": "crystal_cowarted_faithful_32x_1",
       "category": "crystal",
       "name": "cowarted faithful 32x (1)",
-      "sha256": "847938598bb7aba023cdd77819c1385a1a0d0fbb7ada9c42a6d401c50dd43ab0",
-      "size": 6255,
+      "sha256": "3d48f83b2b7ea0ddd15c1246914310ce949cc7466a25b200d5036dfb83ab1a1f",
+      "size": 9927,
       "preview": "previews/crystal_cowarted_faithful_32x_1.png"
     },
     {
@@ -12797,8 +12765,8 @@
       "id": "crystal_cowarted_purple",
       "category": "crystal",
       "name": "cowarted purple",
-      "sha256": "979833acc6d3b6de69cdc1dd32884eab8a05fef1a4875e52bc9714757cea6fde",
-      "size": 5638,
+      "sha256": "5fbab19adba4970053f3e1ec2981262b2e1876fd9d540789a53119d39be2ebb7",
+      "size": 9401,
       "preview": "previews/crystal_cowarted_purple.png"
     },
     {
@@ -12917,8 +12885,8 @@
       "id": "armor_dafmo",
       "category": "armor",
       "name": "dafmo",
-      "sha256": "c88c79eac99deaeb484c04122dbcb29483236feff683ad46a34ab7fbd1685434",
-      "size": 14025,
+      "sha256": "65488c28f63547b5e27218937b2e1113e7e24332ba172097f6d55b56e3c04654",
+      "size": 27172,
       "preview": "previews/armor_dafmo.png"
     },
     {
@@ -13005,8 +12973,8 @@
       "id": "crystal_decaying",
       "category": "crystal",
       "name": "decaying",
-      "sha256": "f830a721f5d4a7bc4a40f44af7db58bfa0bcadb019d578c5c6f0590919bcb1e5",
-      "size": 5317,
+      "sha256": "39438ee71897408e8eacb90ea13769128df7930ccf4c9cd2403f7d97febb32f1",
+      "size": 9953,
       "preview": "previews/crystal_decaying.png"
     },
     {
@@ -13077,8 +13045,8 @@
       "id": "armor_decaying",
       "category": "armor",
       "name": "decaying",
-      "sha256": "5aac62e0acbd0eb241fa4cc6981b1fd6822221a3224de46432254b93f7804270",
-      "size": 4962,
+      "sha256": "0aed9cac46dea10eca45850e4a1eb5bd78159a680dbffecc879d47210176b3fc",
+      "size": 16416,
       "preview": "previews/armor_decaying.png"
     },
     {
@@ -13173,8 +13141,8 @@
       "id": "crystal_dl_tyylimoka_private_pink",
       "category": "crystal",
       "name": "dl_Tyylimoka_private_pink",
-      "sha256": "5e5e547dd9e0e4da9bd2f66fafd91a210b198fd06214459b901b3b1c69c95201",
-      "size": 6185,
+      "sha256": "1bb69f4c36e36364586f24c9f3a20ce8f9b796888692cbf7d4781f7367d4eaa3",
+      "size": 7113,
       "preview": "previews/crystal_dl_tyylimoka_private_pink.png"
     },
     {
@@ -13221,8 +13189,8 @@
       "id": "armor_dl_tyylimoka_private_pink",
       "category": "armor",
       "name": "dl_Tyylimoka_private_pink",
-      "sha256": "acec70c1817a90a41b61deef6afbd06a8813f7a63f50cec18e4500fd79c97aee",
-      "size": 1244,
+      "sha256": "ce5b323b5e1427fe39626aef44f0df92ee96c7624709056cc257a7bcbcf7d6fe",
+      "size": 2305,
       "preview": "previews/armor_dl_tyylimoka_private_pink.png"
     },
     {
@@ -13245,8 +13213,8 @@
       "id": "crystal_fallen_angel_remake_by_oxx",
       "category": "crystal",
       "name": "fallen angel remake by oxx",
-      "sha256": "1495a277f60f112e8d08e3e99272e0a62aefb6b5003b2237481afd2eb7b9f547",
-      "size": 6372,
+      "sha256": "eba4ea473d0481fe66a7adde522b2cf7cab4c772811fc7c3da08a4a4b95ff08f",
+      "size": 9809,
       "preview": "previews/crystal_fallen_angel_remake_by_oxx.png"
     },
     {
@@ -13296,14 +13264,6 @@
       "sha256": "8eff5be7e471660ad8ce6efc701f2d0bf012364526894b88ccc2138a7778c57e",
       "size": 4151,
       "preview": "previews/fire_fire_sigma.png"
-    },
-    {
-      "id": "anchor_fri0",
-      "category": "anchor",
-      "name": "fri0",
-      "sha256": "6f4de6abcc223006549aa36a0848769de66652cac56b60d4cf29e37609f797ca",
-      "size": 19235,
-      "preview": "previews/anchor_fri0.png"
     },
     {
       "id": "sword_fri0",
@@ -13357,8 +13317,8 @@
       "id": "armor_fri0",
       "category": "armor",
       "name": "fri0",
-      "sha256": "ee6f193f0b7388d3c1b583504d803f7ab461c85844f2421b968cbd06db58c720",
-      "size": 7636,
+      "sha256": "bb9e6229537a88fea00f5395f361a48c32e0144269ba388bd03125b7bbc4a8f3",
+      "size": 14482,
       "preview": "previews/armor_fri0.png"
     },
     {
@@ -13429,16 +13389,16 @@
       "id": "crystal_grav_pack",
       "category": "crystal",
       "name": "grav pack",
-      "sha256": "38ddd862e6f651957169c48a9e3443f5ee6d023c3241cd4e4e3bc1cf5e0e93cf",
-      "size": 3500,
+      "sha256": "0fe4ccd39d022e6fe126eaa357da83e89e82627cbc2e311ea05eefc639115896",
+      "size": 5525,
       "preview": "previews/crystal_grav_pack.png"
     },
     {
       "id": "armor_grav_pack",
       "category": "armor",
       "name": "grav pack",
-      "sha256": "1f4456d5bf5dd48d251d6509e48caa7a66cfc1ab683da433b5fec37335904756",
-      "size": 3206,
+      "sha256": "2bc25697b5e95e3c5bb42b1862b63f4578dd3d9549bf3162326f2d376a3544ba",
+      "size": 6285,
       "preview": "previews/armor_grav_pack.png"
     },
     {
@@ -13453,8 +13413,8 @@
       "id": "crystal_gray_faith_x_swetsy_4",
       "category": "crystal",
       "name": "gray faith x swetsy (4)",
-      "sha256": "120712af30fcda95529d9178fe8604e2e3cc49e5ec9f354a03c2f43a3e55d60d",
-      "size": 10606,
+      "sha256": "110e8e7421abe81b42ee70b0c4659e294deb7034b28944ce037350031471c9ba",
+      "size": 19413,
       "preview": "previews/crystal_gray_faith_x_swetsy_4.png"
     },
     {
@@ -13498,14 +13458,6 @@
       "preview": "previews/gap_gw_purple_testmaster_anchor.png"
     },
     {
-      "id": "armor_gw_purple_testmaster_anchor",
-      "category": "armor",
-      "name": "gw purple testmaster anchor",
-      "sha256": "d78552aeda10f584e303bd1d1cb7af4d1f16bbadad4bed6b38131dc50948714a",
-      "size": 9664,
-      "preview": "previews/armor_gw_purple_testmaster_anchor.png"
-    },
-    {
       "id": "anchor_idk",
       "category": "anchor",
       "name": "idk",
@@ -13517,8 +13469,8 @@
       "id": "crystal_idk",
       "category": "crystal",
       "name": "idk",
-      "sha256": "1c00ef9242ef47da51e6c686d815a34b4fff7a628c28cea6760c0910c179b932",
-      "size": 6603,
+      "sha256": "af506a83b80ae6746355a037d6fdd64f1a3a81d25d4ae722733c2d2e18f1d271",
+      "size": 9182,
       "preview": "previews/crystal_idk.png"
     },
     {
@@ -13605,8 +13557,8 @@
       "id": "crystal_kesu_main_qblast_pink_recolo",
       "category": "crystal",
       "name": "kesu main qblast pink recolor",
-      "sha256": "3c4878567c1e6cb0b62384ba2a33096ba69bf8747afb6cc6ccc0e3e02308de82",
-      "size": 6989,
+      "sha256": "586dbf0a407191c33b3608c67cebe786c0611726b455a208a1e988acf1c983bc",
+      "size": 10547,
       "preview": "previews/crystal_kesu_main_qblast_pink_recolo.png"
     },
     {
@@ -13653,8 +13605,8 @@
       "id": "armor_kesu_main_qblast_pink_recolo",
       "category": "armor",
       "name": "kesu main qblast pink recolor",
-      "sha256": "0eb65ae7262462869c09f07ddffafe62ea9427e5834453c64f663b1518bc0513",
-      "size": 3827,
+      "sha256": "947413282527f8d40ddb9117346e7d8e4ce37a0f185ba0307d6ec5e8bfd7970c",
+      "size": 4680,
       "preview": "previews/armor_kesu_main_qblast_pink_recolo.png"
     },
     {
@@ -13669,8 +13621,8 @@
       "id": "crystal_kesu",
       "category": "crystal",
       "name": "kesu+",
-      "sha256": "80135195b6597bc0a93febb731376536272badab335b50b91c9d27082a59710c",
-      "size": 3257,
+      "sha256": "e5a5c769099bd6537e7403774d1533b6db0fadf1d16b2c0831d13e9b43a86ffa",
+      "size": 5495,
       "preview": "previews/crystal_kesu.png"
     },
     {
@@ -13805,8 +13757,8 @@
       "id": "armor_killa_s_lightmode_v3",
       "category": "armor",
       "name": "killa's lightmode v3",
-      "sha256": "f2d178e1a6ec5efab59eaf1fa721eace1b256e9fdec660805634501d4832a42c",
-      "size": 15456,
+      "sha256": "37ba937433e5ab2ef27c3ce7efd9e698348549adb235a4a03c550f36b5cca86d",
+      "size": 26309,
       "preview": "previews/armor_killa_s_lightmode_v3.png"
     },
     {
@@ -13869,8 +13821,8 @@
       "id": "crystal_kingroxxys_pink_dlvaunta_rec",
       "category": "crystal",
       "name": "kingroxxys pink dlvaunta recolou",
-      "sha256": "b535bf641729b264e440ee3910224566eef4780fdc0d3b6325f50f059a6b84d5",
-      "size": 4918,
+      "sha256": "fbbb3b5b32f6000157971f803893ee4cc5af6abe99738c3e1f1c6fe97d19cc3e",
+      "size": 9023,
       "preview": "previews/crystal_kingroxxys_pink_dlvaunta_rec.png"
     },
     {
@@ -13917,8 +13869,8 @@
       "id": "armor_kingroxxys_pink_dlvaunta_rec",
       "category": "armor",
       "name": "kingroxxys pink dlvaunta recolou",
-      "sha256": "78d13111ac5d5d1137f00644becd28f5191fb6b82b16c001b9e011d4c21c2213",
-      "size": 38873,
+      "sha256": "95039cbac9bd8b75d4e7536e6c33a3cf51693a6bad190b6826b971795f227411",
+      "size": 61647,
       "preview": "previews/armor_kingroxxys_pink_dlvaunta_rec.png"
     },
     {
@@ -13941,8 +13893,8 @@
       "id": "crystal_ledgemain_cheats",
       "category": "crystal",
       "name": "ledgemain cheats",
-      "sha256": "cd2a801c5ff7fe8048e4f83948fadc7fafee205db6babd7fa33bf1f48a105d00",
-      "size": 2967,
+      "sha256": "cc79b38534a520315e4be753deb71c88e77848fc7b789e9e38b5cdf860c33200",
+      "size": 4248,
       "preview": "previews/crystal_ledgemain_cheats.png"
     },
     {
@@ -13989,16 +13941,16 @@
       "id": "anchor_lluris_20k",
       "category": "anchor",
       "name": "lluris_20k",
-      "sha256": "b8d7502cb19a65636bf5ba2df9b399701fb02f65a7903e81323943204640c276",
-      "size": 14138,
+      "sha256": "2cd7178997bf4fe8802544c3a97a28e8497734b21529d9a2284e7130ca3b3716",
+      "size": 15947,
       "preview": "previews/anchor_lluris_20k.png"
     },
     {
       "id": "crystal_lluris_20k",
       "category": "crystal",
       "name": "lluris_20k",
-      "sha256": "dccc17e793d32ebcebc3bdf239a8e0d5d0f333df4ba386b70ab98888121c8155",
-      "size": 4021,
+      "sha256": "ef5dbce342c37a7b058c4aebf8ed153e59836c192768b570d4783a37d45bea8d",
+      "size": 4622,
       "preview": "previews/crystal_lluris_20k.png"
     },
     {
@@ -14069,8 +14021,8 @@
       "id": "armor_lluris_20k",
       "category": "armor",
       "name": "lluris_20k",
-      "sha256": "067ae735d616bd7bbfe0d965113355261257fdc51cc6db13604f691ec5ba10bf",
-      "size": 43060,
+      "sha256": "9058deac507450e6d76bf0f2aae69eb0df7060ccad9753314717799f61031b00",
+      "size": 50746,
       "preview": "previews/armor_lluris_20k.png"
     },
     {
@@ -14181,8 +14133,8 @@
       "id": "crystal_munni_blue_like_rem",
       "category": "crystal",
       "name": "munni blue like rem",
-      "sha256": "89591d7b7c3bb13627d72e30f82f45c6fb29d81546708a95311e36d39e7fd386",
-      "size": 4288,
+      "sha256": "e0e978c770102913ecd098706165b6976d057cb4dd443fe5507fd05f20ad76e8",
+      "size": 8159,
       "preview": "previews/crystal_munni_blue_like_rem.png"
     },
     {
@@ -14237,8 +14189,8 @@
       "id": "armor_munni_blue_like_rem",
       "category": "armor",
       "name": "munni blue like rem",
-      "sha256": "ad32d8e9a30601698f32ee4b000a614fe91362dd8467e6aa45910cb1d86b59d7",
-      "size": 3125,
+      "sha256": "607307768491710f976b06e74ab75e0b26243065dff3a173fbc12b0dedc879de",
+      "size": 3891,
       "preview": "previews/armor_munni_blue_like_rem.png"
     },
     {
@@ -14277,8 +14229,8 @@
       "id": "crystal_navik_black",
       "category": "crystal",
       "name": "navik black",
-      "sha256": "5b8b170132627a5976359b7148b9726a3afe35ae370b9e7f490b0286a77fb336",
-      "size": 12754,
+      "sha256": "ab09cbe8092cc63d86a5ae2808380f478e07cadcb7a6b8188f552e0946dc6af3",
+      "size": 20141,
       "preview": "previews/crystal_navik_black.png"
     },
     {
@@ -14301,8 +14253,8 @@
       "id": "crystal_navik_restored_silver",
       "category": "crystal",
       "name": "navik restored silver",
-      "sha256": "7a1c624e6a59e3264c62361375143e07cc3e77d345d40f84b616dd1c53ffbcf5",
-      "size": 9425,
+      "sha256": "8082ddd3319c0d5d8b47316fbcc6574c5db0f3acbb6323ae4c14dd0e48b82258",
+      "size": 15481,
       "preview": "previews/crystal_navik_restored_silver.png"
     },
     {
@@ -14373,8 +14325,8 @@
       "id": "armor_navik_restored_silver",
       "category": "armor",
       "name": "navik restored silver",
-      "sha256": "b1db141bba9c9ed71de4b7d6a2e4f065cecc91ddf573890d6a3c9b52d23a75e3",
-      "size": 27996,
+      "sha256": "d4609d57b4cbc592d40ac9baa22526d0865f9412156d96d939ec59ada5ec31f4",
+      "size": 33817,
       "preview": "previews/armor_navik_restored_silver.png"
     },
     {
@@ -14469,8 +14421,8 @@
       "id": "crystal_need_me",
       "category": "crystal",
       "name": "need me",
-      "sha256": "335dda0257cd135cdae4a9c5218b01ae3bcee286c5cdfb9269731b3a42dca593",
-      "size": 11059,
+      "sha256": "2978adf476b520b240d43b0c12a6b363a7f24ec2072bf889570591e3ff885966",
+      "size": 21721,
       "preview": "previews/crystal_need_me.png"
     },
     {
@@ -14605,8 +14557,8 @@
       "id": "crystal_pasukabundapriv",
       "category": "crystal",
       "name": "pasukabundapriv",
-      "sha256": "386fe70634852fcaddfaefbeccdb12a8788d393b4695b873275524fdc5bf9b5f",
-      "size": 5399,
+      "sha256": "bb8c6e05ccd09973bc7874f45e1f00af2c26f9cc4a228fc34e83f208343e1431",
+      "size": 9219,
       "preview": "previews/crystal_pasukabundapriv.png"
     },
     {
@@ -14669,8 +14621,8 @@
       "id": "crystal_pink_asmr",
       "category": "crystal",
       "name": "pink asmr",
-      "sha256": "48a8302ffe85d9aa25f6ef9fcafa2b3dbf0c03816480675829ef41261c75a703",
-      "size": 4421,
+      "sha256": "72f08a73201fd82dea092f803e9c5de94204906fb25840d7495a3e2c93954140",
+      "size": 8103,
       "preview": "previews/crystal_pink_asmr.png"
     },
     {
@@ -14725,8 +14677,8 @@
       "id": "armor_pink_asmr",
       "category": "armor",
       "name": "pink asmr",
-      "sha256": "f5953a5f03cf9f31ca0510832efd6bfba7913de81abeac729eb374ad90e1f0b9",
-      "size": 2902,
+      "sha256": "9adea4adeb4f6e7544200eec36106b98d5f3daf3a533184a831d937195196cc8",
+      "size": 3668,
       "preview": "previews/armor_pink_asmr.png"
     },
     {
@@ -14765,8 +14717,8 @@
       "id": "crystal_pink_sigma",
       "category": "crystal",
       "name": "pink sigma",
-      "sha256": "54581b36d6ccf5c2e17c36b9c0321f1286d41a06ed35268c3bf8658143aa5de3",
-      "size": 4091,
+      "sha256": "d907b58fbeb6d72740b9a3da4dfb47b0f0dcd5d6611dbdee35789be101cbc565",
+      "size": 7391,
       "preview": "previews/crystal_pink_sigma.png"
     },
     {
@@ -14789,8 +14741,8 @@
       "id": "crystal_pretty_pink_petunias",
       "category": "crystal",
       "name": "pretty pink petunias",
-      "sha256": "f7574f716f69024c24bcafce86e434c3128d1e804cb090515884b4badf9e2b76",
-      "size": 5166,
+      "sha256": "eeea6ff538773bd50069c94399db6161aa970775aaf12dab4df4fbb90e1440ee",
+      "size": 7941,
       "preview": "previews/crystal_pretty_pink_petunias.png"
     },
     {
@@ -14853,8 +14805,8 @@
       "id": "armor_pretty_pink_petunias",
       "category": "armor",
       "name": "pretty pink petunias",
-      "sha256": "9aaf8169f5976cedce9af8d25c8487991499b871668d9b2c99fb8e36fb770133",
-      "size": 8258,
+      "sha256": "b72f42e78ab25a8f144749ef9dd5ae841173bfa9dd684b5245b03600b34e10d5",
+      "size": 15233,
       "preview": "previews/armor_pretty_pink_petunias.png"
     },
     {
@@ -14925,8 +14877,8 @@
       "id": "crystal_purp_edit",
       "category": "crystal",
       "name": "purp edit",
-      "sha256": "0ea270e3e809c0a918378f04cb6b5e926fbc4729cefd197f8e1ae107be37f8ee",
-      "size": 3033,
+      "sha256": "971a83560b73dc9d6df10476e018b872edb119619f169eea33dcf808167d6a24",
+      "size": 5509,
       "preview": "previews/crystal_purp_edit.png"
     },
     {
@@ -15005,8 +14957,8 @@
       "id": "crystal_purple_foray_16x_e180_1_21_1",
       "category": "crystal",
       "name": "purple-foray-16x-e180_1.21.11",
-      "sha256": "802e9a6b3a79055ef50ba996f2d7540569ea9dd657d5a77ea53e68bb511d3f92",
-      "size": 15542,
+      "sha256": "478cce22d941bddb1a6828e346be6d66bf183895157e47a312b791ae68706108",
+      "size": 8508,
       "preview": "previews/crystal_purple_foray_16x_e180_1_21_1.png"
     },
     {
@@ -15077,8 +15029,8 @@
       "id": "armor_purple_foray_16x_e180_1_21_1",
       "category": "armor",
       "name": "purple-foray-16x-e180_1.21.11",
-      "sha256": "a24df865518283b9065e87461ccc9afa65258aae615014564030efaadaa2f1cc",
-      "size": 53914,
+      "sha256": "dd318a046203867d9cb1c06777bf2ed9f62bae1c622bbe53b595565a83321ed6",
+      "size": 63944,
       "preview": "previews/armor_purple_foray_16x_e180_1_21_1.png"
     },
     {
@@ -15133,8 +15085,8 @@
       "id": "armor_purple_gothic",
       "category": "armor",
       "name": "purple_gothic",
-      "sha256": "9048ed791ec60ba2b2a6544389c2ade62e186563c3d758e5cac6fc99a03ac08b",
-      "size": 13699,
+      "sha256": "f08405297c19f0b78ee4449de121c0002d124f2dd00af0f44a04aa1acfe730ef",
+      "size": 23471,
       "preview": "previews/armor_purple_gothic.png"
     },
     {
@@ -15173,8 +15125,8 @@
       "id": "crystal_purpleish_chillesh",
       "category": "crystal",
       "name": "purpleish chillesh",
-      "sha256": "313be870a961bb92a1b4db49a56dffeb0aa02098c56a73f22d3774f3a11c96f4",
-      "size": 5353,
+      "sha256": "5db3e51abb9c6934e0411c712b676f615fdaf32f03b564950027dc83ed7d2555",
+      "size": 8733,
       "preview": "previews/crystal_purpleish_chillesh.png"
     },
     {
@@ -15245,8 +15197,8 @@
       "id": "armor_purpleish_chillesh",
       "category": "armor",
       "name": "purpleish chillesh",
-      "sha256": "755a653b903ccaf69c5c7b7289be0ec49b0254f2c2ad61195d0a1cd7202df195",
-      "size": 38948,
+      "sha256": "30476e064af99432712e06c38f102b91685c6161e369fd7ad7440b0e3826265d",
+      "size": 57317,
       "preview": "previews/armor_purpleish_chillesh.png"
     },
     {
@@ -15373,8 +15325,8 @@
       "id": "armor_red_lavish",
       "category": "armor",
       "name": "red-lavish",
-      "sha256": "2e6b70eaeb1b18175473a3b63c936152e55de04982cc5b776fe5c5cf131ac5f6",
-      "size": 3682,
+      "sha256": "9bac842c9b1688745c6a5bcf5e5faedb835dddf1676602651261339e8acac575",
+      "size": 7196,
       "preview": "previews/armor_red_lavish.png"
     },
     {
@@ -15397,8 +15349,8 @@
       "id": "crystal_rome_babyblue_v1",
       "category": "crystal",
       "name": "rome babyblue v1",
-      "sha256": "2b9e55fa13e20b3e018c58db8c4773e25f530b205b2097394c97c0ca35e61f4f",
-      "size": 5228,
+      "sha256": "2e044b20217f0fed57574ce5d2e04bed39792d9695c28038559b96f81cac2824",
+      "size": 8479,
       "preview": "previews/crystal_rome_babyblue_v1.png"
     },
     {
@@ -15453,8 +15405,8 @@
       "id": "armor_rome_babyblue_v1",
       "category": "armor",
       "name": "rome babyblue v1",
-      "sha256": "e167ddee3c4085de458429c1b7b07518e6c15fd5e33ba5d2823fe1129f46bd09",
-      "size": 4109,
+      "sha256": "ebcd34f4187c5f7163675a6b373e25776aa2352abff844b8ba366eb5ea358487",
+      "size": 13171,
       "preview": "previews/armor_rome_babyblue_v1.png"
     },
     {
@@ -15501,8 +15453,8 @@
       "id": "crystal_romeprivat",
       "category": "crystal",
       "name": "romeprivat",
-      "sha256": "730f689864db1e9ed9c561d563fde1e9989924cecfb5bbe4c8324e97be943cb8",
-      "size": 3647,
+      "sha256": "eba183c88b2d410dab2d6809ce66bae86bb80663877f6c0a896f58178c80aff2",
+      "size": 5734,
       "preview": "previews/crystal_romeprivat.png"
     },
     {
@@ -15581,25 +15533,17 @@
       "id": "crystal_skibidi_toilet",
       "category": "crystal",
       "name": "skibidi toilet",
-      "sha256": "4d2f9ab1fb6500e18d8180f9c33fc65d8398ca775ddbb6cc82099c044f1a188a",
-      "size": 3148,
+      "sha256": "d101f423efcf9201997aa10a4ed78a545686fe9758c0a8bc6efcb42890523bad",
+      "size": 6726,
       "preview": "previews/crystal_skibidi_toilet.png"
     },
     {
       "id": "anchor_trixyvanilla",
       "category": "anchor",
       "name": "trixyvanilla",
-      "sha256": "ec2d5659ab50eaffde1d3bec01239bd69cdba1f1ccf868b4c912f7aaac4bebc8",
-      "size": 7686,
+      "sha256": "b4b97302a281257058f73489d432a14261803f3feb411ab3a6f3f90fa998136f",
+      "size": 8619,
       "preview": "previews/anchor_trixyvanilla.png"
-    },
-    {
-      "id": "crystal_trixyvanilla",
-      "category": "crystal",
-      "name": "trixyvanilla",
-      "sha256": "f2bdc28092954599e30f0ce42b506da97217cc5524c8b0a276c79d127004cba6",
-      "size": 2095,
-      "preview": "previews/crystal_trixyvanilla.png"
     },
     {
       "id": "sword_trixyvanilla",
@@ -15741,8 +15685,8 @@
       "id": "crystal_xgomme_2_white",
       "category": "crystal",
       "name": "xGomme#2 white",
-      "sha256": "eaf8c41a4bc354ac5225e0034fe8034b3620b36fd886c0a7e917ef1ee72a8190",
-      "size": 485,
+      "sha256": "046e982ffbc6b4c09795ccab83a629181a7c0e4af8917576502ca6c559396783",
+      "size": 1400,
       "preview": "previews/crystal_xgomme_2_white.png"
     },
     {
@@ -15789,8 +15733,8 @@
       "id": "armor_xgomme_2_white",
       "category": "armor",
       "name": "xGomme#2 white",
-      "sha256": "1d58bc22812bff73c573b61cd724c20a467022bc1509d85dd24b5588a8cc8db8",
-      "size": 1150,
+      "sha256": "4e592fe8435bacd4e0d5a27853fe2a4be80a36a0f739c6f9efe0550e7cdfa1e8",
+      "size": 3968,
       "preview": "previews/armor_xgomme_2_white.png"
     },
     {
@@ -15805,8 +15749,8 @@
       "id": "crystal_xmas_pack",
       "category": "crystal",
       "name": "xmas pack",
-      "sha256": "cdaf0959408d02b4a4ce6527adbc952bca6d27c656484b0d1203ba01d859713c",
-      "size": 1664,
+      "sha256": "214a7c92f9a4cc51d5311ce9126c45cabbd60b302ac1b38ea7446e6e4188d3cf",
+      "size": 2351,
       "preview": "previews/crystal_xmas_pack.png"
     },
     {
@@ -15869,8 +15813,8 @@
       "id": "armor_xmas_pack",
       "category": "armor",
       "name": "xmas pack",
-      "sha256": "faaed03db780c5721641cb146087cf40d4e3685801116a57b690936b05669e14",
-      "size": 14206,
+      "sha256": "1f356d445fb6da9ad52a17912e4c579cd5c348dd4827fddda2aa16932d1a8aed",
+      "size": 25488,
       "preview": "previews/armor_xmas_pack.png"
     },
     {
@@ -15917,8 +15861,8 @@
       "id": "crystal_yangbubu_private",
       "category": "crystal",
       "name": "yangbubu private",
-      "sha256": "fbc6dbb8b431d0950c6b7113119427cd4027a0921fd10bb95c0f0e2be15f2b4f",
-      "size": 978,
+      "sha256": "00b75743bae2ee6d064b82e7ad08b0ff4c744a0ac4ac3a80c0f2595d99a2fc84",
+      "size": 2384,
       "preview": "previews/crystal_yangbubu_private.png"
     },
     {
@@ -15962,14 +15906,6 @@
       "preview": "previews/axe_yangbubu_private.png"
     },
     {
-      "id": "crystal_opp_smoker_pack_tryh4rdd_edi",
-      "category": "crystal",
-      "name": "Opp Smoker Pack - TryH4rdd Edit",
-      "sha256": "91cd11a55d59a113c743e6072e83350c53253223545fd78cdaf9633b659ec42f",
-      "size": 753,
-      "preview": "previews/crystal_opp_smoker_pack_tryh4rdd_edi.png"
-    },
-    {
       "id": "sword_opp_smoker_pack_tryh4rdd_edi",
       "category": "sword",
       "name": "Opp Smoker Pack - TryH4rdd Edit",
@@ -16005,8 +15941,8 @@
       "id": "armor_opp_smoker_pack_tryh4rdd_edi",
       "category": "armor",
       "name": "Opp Smoker Pack - TryH4rdd Edit",
-      "sha256": "baaa90880f7bfb3d820f3f018d4a507982a89a0558ee0caaa56dce3cc7f32463",
-      "size": 39081,
+      "sha256": "981ae08a65464bfda9581f8732c2c9c885217619e9dc7ad4eaa15f73f1a48168",
+      "size": 61357,
       "preview": "previews/armor_opp_smoker_pack_tryh4rdd_edi.png"
     },
     {
@@ -16085,8 +16021,8 @@
       "id": "armor_clan_provet_pack_remake",
       "category": "armor",
       "name": "хCLANхPROVETхPACKх.REMAKE",
-      "sha256": "273d9e286aec0414d0a0c3e4f515ee7e3e765cab9e430d1f463122d9d170c49b",
-      "size": 20705,
+      "sha256": "c2b29e1a6b979f539844798388f7b859b680ae069a05888a11dcb0c44d91e41e",
+      "size": 41224,
       "preview": "previews/armor_clan_provet_pack_remake.png"
     },
     {
@@ -16149,8 +16085,8 @@
       "id": "crystal_twitch_zanekih",
       "category": "crystal",
       "name": "Twitch Zanekih",
-      "sha256": "b128815fad5ffd48847a804c394d20b34a06eae98c8dec81076aff38a513b111",
-      "size": 20399,
+      "sha256": "106e4ff5aec103717fb8367f542fbee4f5fdb12785a41f54db3f57d33ce4517b",
+      "size": 32588,
       "preview": "previews/crystal_twitch_zanekih.png"
     },
     {
@@ -16205,8 +16141,8 @@
       "id": "armor_twitch_zanekih",
       "category": "armor",
       "name": "Twitch Zanekih",
-      "sha256": "c1b059f5f8aa03f2e4aefebd6d52077ad6997b9d8f6da14b963b2ea71895e408",
-      "size": 67426,
+      "sha256": "c792c56045ce4ab5270bb2a9ce7f4b48952ff2fec7d0ff53235e177d8fe2e426",
+      "size": 83448,
       "preview": "previews/armor_twitch_zanekih.png"
     },
     {
@@ -16277,8 +16213,8 @@
       "id": "crystal_hexxo_private",
       "category": "crystal",
       "name": "hexxo private",
-      "sha256": "db3ba2733c575e9cf9a6edc2361a82f37e29be0dcfd124a23f2f6eb46b7e5984",
-      "size": 5853,
+      "sha256": "be66c026fb85d6ccdff8491a484c996a1d181f7c4cf040b96a4fbde0831897ac",
+      "size": 9917,
       "preview": "previews/crystal_hexxo_private.png"
     },
     {
@@ -16341,8 +16277,8 @@
       "id": "armor_haunted_horizons_pvp_pack_1_",
       "category": "armor",
       "name": "Haunted Horizons PvP Pack 1.21.1",
-      "sha256": "afcca5645b566edd549983abbe919a90c2d9fd51e1f2847518caefc239062fe1",
-      "size": 8214,
+      "sha256": "9ac2b2988d64a67e9c130d3d15ad2bd6d29f125503467ffe69da455c69b68087",
+      "size": 15598,
       "preview": "previews/armor_haunted_horizons_pvp_pack_1_.png"
     },
     {
@@ -16421,8 +16357,8 @@
       "id": "crystal_davs_black_txtp",
       "category": "crystal",
       "name": "DAVS BLACK TXTP",
-      "sha256": "5559d7161528e87529eb2f207c2145a1876743bc040287db9d699524a344a597",
-      "size": 4285,
+      "sha256": "77675191b72e109d83c7aa77abccb21902a6cdce5981a10202718dd83cc00028",
+      "size": 8999,
       "preview": "previews/crystal_davs_black_txtp.png"
     },
     {
@@ -16453,8 +16389,8 @@
       "id": "armor_davs_black_txtp",
       "category": "armor",
       "name": "DAVS BLACK TXTP",
-      "sha256": "ac4ac90aa4fabbf18299197e6a7d10235403c4108a2a0508b8b42b99b6c20403",
-      "size": 4250,
+      "sha256": "b97d37e050804d943657fe25dccae4128a6a48a5e38b7fd4ff99c217b3b22245",
+      "size": 9306,
       "preview": "previews/armor_davs_black_txtp.png"
     },
     {
@@ -16501,8 +16437,8 @@
       "id": "crystal_blackout",
       "category": "crystal",
       "name": "Blackout",
-      "sha256": "b8c9a88eee15867dd1568ee0cf2a2b848763b03c03210396ab3fb4f2622cf854",
-      "size": 7010,
+      "sha256": "689d0bed6a2bed5337233172f5d16f6ac3b5bd1ccd0e690b9967e20b39e9634c",
+      "size": 7675,
       "preview": "previews/crystal_blackout.png"
     },
     {
@@ -16557,8 +16493,8 @@
       "id": "armor_blackout",
       "category": "armor",
       "name": "Blackout",
-      "sha256": "17a18094015a34e119be21cb42a8ba05139bafc6e92a119cee25f74cbc5f1a18",
-      "size": 12968,
+      "sha256": "e3b25297eb674545f85f4d5ca7f88f4afb955341d3635bc608a7e02f8cc7bb24",
+      "size": 25885,
       "preview": "previews/armor_blackout.png"
     },
     {
@@ -16613,8 +16549,8 @@
       "id": "armor_naturalist_pvp",
       "category": "armor",
       "name": "Naturalist PvP",
-      "sha256": "359e71e64b176dfe778e5219c1eb6ca94792cb29bcf2973bda2b998a66f964a5",
-      "size": 1686,
+      "sha256": "527207374810b276d2705e05b1e0e1293af918fa623663b27a881c6597f6bc21",
+      "size": 6110,
       "preview": "previews/armor_naturalist_pvp.png"
     },
     {
@@ -16629,8 +16565,8 @@
       "id": "crystal_toreonbaba",
       "category": "crystal",
       "name": "ToreonBABA",
-      "sha256": "c204d71c37a9ed3bc2617178b5512615ad699c133f89ae22d22f8169feadf880",
-      "size": 3726,
+      "sha256": "b462816075595badcd341b0169e64b5dc36b3d28c5527b8d958579b2abc708c7",
+      "size": 5477,
       "preview": "previews/crystal_toreonbaba.png"
     },
     {
@@ -16685,8 +16621,8 @@
       "id": "armor_toreonbaba",
       "category": "armor",
       "name": "ToreonBABA",
-      "sha256": "19d10381fbaf1d8dbd3f013e5d3c06dc99d3529ab26807417f44e786a12bf342",
-      "size": 8824,
+      "sha256": "fa07bd70858cee5f2a7b463c305e76651338b8793828134846b911584ecf3d70",
+      "size": 15507,
       "preview": "previews/armor_toreonbaba.png"
     },
     {
@@ -16741,8 +16677,8 @@
       "id": "crystal_pitviper_pink_pack",
       "category": "crystal",
       "name": "Pitviper Pink Pack",
-      "sha256": "19119caac85f32ace627c1c65844afbb1b1c53161f0a23d444c21e6b76fa9b37",
-      "size": 2286,
+      "sha256": "e609e6351879d12efcd4b2175607970c93a67392e335b336a87caf6213d8c62f",
+      "size": 4999,
       "preview": "previews/crystal_pitviper_pink_pack.png"
     },
     {
@@ -16797,8 +16733,8 @@
       "id": "crystal_looshy_1_21_6_v0_8_zip",
       "category": "crystal",
       "name": "looshy [1.21.6] [v0.8].zip",
-      "sha256": "af83c42ca7f6e92efd39f2d4c8e5a89ce5a484187d8b7a344b0e5e2a82fe1566",
-      "size": 5306,
+      "sha256": "c0a2e518aca5a67f2788c466268cc9846a1c753432d5b830d24bdb4d7ac59922",
+      "size": 8835,
       "preview": "previews/crystal_looshy_1_21_6_v0_8_zip.png"
     },
     {
@@ -16869,8 +16805,8 @@
       "id": "armor_looshy_1_21_6_v0_8_zip",
       "category": "armor",
       "name": "looshy [1.21.6] [v0.8].zip",
-      "sha256": "99aec4701baee5bdd65872dac936e6426507f8540ffb08c5cd7a39243180533b",
-      "size": 118798,
+      "sha256": "3576d12646c61165b5ddf0a9d384a91f25f144a581dcec685728fca6d739903d",
+      "size": 139930,
       "preview": "previews/armor_looshy_1_21_6_v0_8_zip.png"
     },
     {
@@ -16973,8 +16909,8 @@
       "id": "crystal_clear_vision_color",
       "category": "crystal",
       "name": "Clear Vision Color",
-      "sha256": "4f357d2fca77640feb972a8550723db28d9ba91b7e4f45ed8d6d30db748d7e80",
-      "size": 4798,
+      "sha256": "fb1bec4fc585f574d0060319df5cd2cd7c525967068d9693aa39216e55fc01c9",
+      "size": 8555,
       "preview": "previews/crystal_clear_vision_color.png"
     },
     {
@@ -17045,8 +16981,8 @@
       "id": "armor_clear_vision_color",
       "category": "armor",
       "name": "Clear Vision Color",
-      "sha256": "89b6a9f9a54d0e0339532398719786ee4d01a0c9320653b5264edaf08775de91",
-      "size": 12136,
+      "sha256": "39ccd88ad42629d53927ae2cb2f3689896f3e600de17d1cd58b0707aacdfebc0",
+      "size": 20483,
       "preview": "previews/armor_clear_vision_color.png"
     },
     {
@@ -17157,8 +17093,8 @@
       "id": "armor_a_white_meta_v2",
       "category": "armor",
       "name": "a_white_meta_v2",
-      "sha256": "307d13f170a5fde097f6b885f4c58e4d3baa63bed4f54d49acb37fe167b0115b",
-      "size": 16492,
+      "sha256": "07ff7ec95b6f62141c847df2762b045c74ba3e6fd156ec8a0bac301208844c2a",
+      "size": 30052,
       "preview": "previews/armor_a_white_meta_v2.png"
     },
     {
@@ -17205,8 +17141,8 @@
       "id": "crystal_sakura_tweaks",
       "category": "crystal",
       "name": "Sakura Tweaks",
-      "sha256": "803d2d430aad6a67502a7f9bc007a24d03d826739c1f85df3efd53f56f5f35c8",
-      "size": 2836,
+      "sha256": "351ac1f02e90ff2d863ea5012cb3cd2abc240230b59906441ed63586aaceb5f2",
+      "size": 3554,
       "preview": "previews/crystal_sakura_tweaks.png"
     },
     {
@@ -17253,8 +17189,8 @@
       "id": "crystal_x_s_s",
       "category": "crystal",
       "name": "₅ᴀᴡɪɪɪ x sᴏsᴀ",
-      "sha256": "bbfa023f10931ce59e9028a6651c2b69fcb1c4bc38c3d6667ed8fdf9f0c7fdc3",
-      "size": 23710,
+      "sha256": "ac1b6c5e12d3d5a09f36928e2b464152649e97786758b33472bbfe85d5ed3cee",
+      "size": 25054,
       "preview": "previews/crystal_x_s_s.png"
     },
     {
@@ -17317,8 +17253,8 @@
       "id": "armor_x_s_s",
       "category": "armor",
       "name": "₅ᴀᴡɪɪɪ x sᴏsᴀ",
-      "sha256": "3626f06102aede5799501a88c2651792e776f9ea04fd2a3cb429e86ecacc57c9",
-      "size": 40165,
+      "sha256": "f3f66ead8d95eddec14bebfa56d0e29785ec76193c0cd965d8c4b7544afba795",
+      "size": 72451,
       "preview": "previews/armor_x_s_s.png"
     },
     {
