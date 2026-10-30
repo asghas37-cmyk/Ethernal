@@ -11138,14 +11138,6 @@
       "preview": "previews/mace_t1n_pvp_triple_tung_tung.png"
     },
     {
-      "id": "sky_t1n_pvp_triple_tung_tung",
-      "category": "sky",
-      "name": "T1N pvp Triple Tung Tung",
-      "sha256": "bf687de3ad8af51b13ac56e28332aeceeb098095b75f4ee12d352388e0cca53e",
-      "size": 1366,
-      "preview": "previews/sky_t1n_pvp_triple_tung_tung.png"
-    },
-    {
       "id": "inventory_t1n_pvp_triple_tung_tung",
       "category": "inventory",
       "name": "T1N pvp Triple Tung Tung",
